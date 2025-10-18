@@ -182,8 +182,15 @@ This document maps your learning progress to the official CFP exam topic outline
 
 - [x] **E.41** Tax consequences of property transactions
   - **Passive activity losses** (2025-10-11) - High confidence
-  - $25k exception and AGI phase-outs
-  - Disposition rule (all suspended losses released)
+    - $25k exception and AGI phase-outs
+    - Disposition rule (all suspended losses released)
+  - **1031 Like-Kind Exchanges** (2025-10-18) - High confidence
+    - Boot calculation: Cash received + Debt relief not replaced ✓
+    - Balanced equation framework: What you give up = What you get ✓
+    - Cost basis formula: Old basis - Boot + Gain recognized ✓
+    - Key insight: Boot = Gain recognized (in typical cases) ✓
+    - Understands FMV, mortgages, and debt relief as boot ✓
+    - Perfect on practice problem (calculated $300k boot correctly)
 
 - [x] **E.43** Charitable/philanthropic contributions and deductions
   - **QCD tax treatment** (2025-10-11) - High confidence
