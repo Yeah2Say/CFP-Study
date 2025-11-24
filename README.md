@@ -125,6 +125,34 @@ All materials have been thoroughly mapped to the 73 CFP exam topics.
 - Citations provided for complex rules
 - Focus on understanding "why" not just "what"
 
+## How to Use This Repository for Your Own CFP Exam Prep
+
+Want to use this AI-powered study system for your own CFP exam preparation? It's simple:
+
+1. **Clone this repository**:
+   ```bash
+   git clone https://github.com/chenran818/CFP-Study.git
+   cd CFP-Study
+   ```
+
+2. **Clear my study history** (start fresh):
+   ```bash
+   rm -rf progress/ sessions/
+   ```
+
+3. **Run Claude Code**:
+   ```bash
+   claude-code
+   ```
+
+4. **That's it!** Start asking CFP questions and Claude will:
+   - Teach you using the Socratic method
+   - Create new `progress/` and `sessions/` folders automatically
+   - Track your learning journey just like it did for me
+   - Adapt to your learning style
+
+The `CLAUDE.md` file contains all the instructions for how Claude should tutor you. The `2024 Slides/` folder has all the study materials already mapped to CFP topics. **It works magically!**
+
 ## Getting Started
 
 Just start a conversation with Claude Code and ask your first CFP question. Claude will guide you from there while automatically tracking your progress.
