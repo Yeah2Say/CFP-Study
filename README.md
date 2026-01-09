@@ -2,9 +2,9 @@
 
 🎉 **I PASSED the CFP Exam on November 10, 2025!** 🎉
 
-This is my personal study repository that helped me pass the Certified Financial Planner (CFP) exam on my second attempt. After failing in November 2024, I rebuilt my study approach using AI-powered guided learning with Claude Code - and it made all the difference.
+This is my personal study repository that helped me pass the Certified Financial Planner (CFP) exam on my second attempt. After failing in November 2024, I rebuilt my study approach using AI-powered guided learning with ChatGPT (Codex in VS Code) - and it made all the difference.
 
-**Thanks to AI and Claude Code**, I went from a failed attempt to **82% mastery** (60/73 topics) across 23 focused study sessions, ultimately passing the exam.
+**Thanks to AI and ChatGPT**, I went from a failed attempt to **82% mastery** (60/73 topics) across 23 focused study sessions, ultimately passing the exam.
 
 **Let's connect on LinkedIn**: [linkedin.com/in/chenran818](https://linkedin.com/in/chenran818) ,**Twitter(X)** [https://x.com/chenran818](https://x.com/chenran818) 和 **知乎**[https://www.zhihu.com/people/chenran](https://www.zhihu.com/people/chenran)
 
@@ -18,7 +18,7 @@ This is my personal study repository that helped me pass the Certified Financial
 
 ## How This Works
 
-This repository uses Claude Code as an interactive CFP exam tutor that:
+This repository uses ChatGPT (Codex in VS Code) as an interactive CFP exam tutor that:
 - Teaches using the Socratic method (asking what you know first)
 - Provides concise (~200 word) explanations
 - Verifies your understanding with follow-up questions
@@ -49,10 +49,10 @@ README.md                     # This file
 
 ### Daily Study Sessions
 
-1. Open Claude Code in this repository
+1. Open VS Code in this repository and start the ChatGPT/Codex chat panel
 2. Ask questions about CFP topics naturally - just like talking to a tutor
-3. Answer the comprehension check questions Claude asks
-4. After each session, Claude will automatically document:
+3. Answer the comprehension check questions ChatGPT asks
+4. After each session, ChatGPT will automatically document:
    - What you learned
    - What you struggled with
    - What you mastered
@@ -60,13 +60,13 @@ README.md                     # This file
 
 ### Review Sessions
 
-When you want to review, simply ask Claude:
+When you want to review, simply ask ChatGPT:
 - "Let's review topics I've struggled with"
 - "What should I focus on today?"
 - "Quiz me on my weak areas"
 - "Show me my progress"
 
-Claude will read your session history and create a personalized review based on your past performance.
+ChatGPT will read your session history and create a personalized review based on your past performance.
 
 ### Track Your Progress
 
@@ -140,28 +140,28 @@ Want to use this AI-powered study system for your own CFP exam preparation? It's
    rm -rf progress/ sessions/
    ```
 
-3. **Run Claude Code**:
+3. **Open VS Code with ChatGPT/Codex installed**:
    ```bash
-   claude-code
+   code .
    ```
 
-4. **That's it!** Start asking CFP questions and Claude will:
+4. **That's it!** Start asking CFP questions and ChatGPT will:
    - Teach you using the Socratic method
    - Create new `progress/` and `sessions/` folders automatically
    - Track your learning journey just like it did for me
    - Adapt to your learning style
 
-The `CLAUDE.md` file contains all the instructions for how Claude should tutor you. **It works magically!**
+The `CLAUDE.md` file contains all the instructions for how ChatGPT should tutor you. **It works magically!**
 
 ## Getting Started
 
-Just start a conversation with Claude Code and ask your first CFP question. Claude will guide you from there while automatically tracking your progress.
+Just start a conversation with ChatGPT/Codex and ask your first CFP question. ChatGPT will guide you from there while automatically tracking your progress.
 
 ---
 
 ## About the Author
 
-After failing the CFP exam in November 2024, I knew I needed a different approach. Traditional study methods weren't working for me. Using Claude Code as my AI study partner transformed my preparation - the Socratic teaching method, personalized feedback, and systematic progress tracking made complex financial planning concepts finally click.
+After failing the CFP exam in November 2024, I knew I needed a different approach. Traditional study methods weren't working for me. Using ChatGPT/Codex as my AI study partner transformed my preparation - the Socratic teaching method, personalized feedback, and systematic progress tracking made complex financial planning concepts finally click.
 
 If you're preparing for the CFP exam or any professional certification, I hope this repository inspires you to leverage AI tools in your learning journey.
 
