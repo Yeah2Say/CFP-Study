@@ -16,7 +16,7 @@ This single document tracks ALL your CFP exam preparation progress, including:
 
 üìä **Overall Progress**: 60/73 topics covered = **82%**
 üìö **Study Materials**: 1,088 pages of 2024 Dalton slides
-‚è∞ **Time Remaining**: 3 days ‚ö†Ô∏è
+‚è?**Time Remaining**: 3 days ‚ö†Ô∏è
 üéØ **Target**: Pass CFP exam November 10, 2025
 
 ---
@@ -25,13 +25,13 @@ This single document tracks ALL your CFP exam preparation progress, including:
 
 | Domain | Weight | Topics Covered | Slides Available | Status | Priority |
 |--------|--------|----------------|------------------|--------|----------|
-| **A. Professional Conduct** | 8% | 0/6 | ‚úì 90 pages | ‚ö™ Not Started | Medium |
-| **B. General Principles** | 15% | 8/10 | ‚úì 90 pages | üü° In Progress (80%) | **HIGH** |
-| **C. Insurance & Risk** | 11% | 10/10 | ‚úì 188 pages | üü¢ **COMPLETE (100%)** ‚úÖ | **DONE** |
-| **D. Investment Planning** | 17% | 9/9 | ‚úì 188 pages | üü¢ **COMPLETE (100%)** ‚úÖ | **DONE** |
-| **E. Tax Planning** | 14% | 8/8 | ‚úì 150 pages | üü¢ **COMPLETE (100%)** ‚úÖ | **DONE** |
-| **F. Retirement** | **18%** ‚≠ê | 10/10 | ‚úì 182 pages | üü¢ **COMPLETE (100%)** ‚úÖ | **DONE** |
-| **G. Estate Planning** | 10% | 9/14 | ‚úì 200 pages | üü° In Progress (64%) | Medium |
+| **A. Professional Conduct** | 8% | 0/6 | ‚ú?90 pages | ‚ö?Not Started | Medium |
+| **B. General Principles** | 15% | 8/10 | ‚ú?90 pages | üü° In Progress (80%) | **HIGH** |
+| **C. Insurance & Risk** | 11% | 10/10 | ‚ú?188 pages | üü¢ **COMPLETE (100%)** ‚ú?| **DONE** |
+| **D. Investment Planning** | 17% | 9/9 | ‚ú?188 pages | üü¢ **COMPLETE (100%)** ‚ú?| **DONE** |
+| **E. Tax Planning** | 14% | 8/8 | ‚ú?150 pages | üü¢ **COMPLETE (100%)** ‚ú?| **DONE** |
+| **F. Retirement** | **18%** ‚≠?| 10/10 | ‚ú?182 pages | üü¢ **COMPLETE (100%)** ‚ú?| **DONE** |
+| **G. Estate Planning** | 10% | 9/14 | ‚ú?200 pages | üü° In Progress (64%) | Medium |
 | **H. Psychology** | 7% | 2/6 | ‚ö†Ô∏è Minimal | üü° Started (33%) | Medium |
 
 ---
@@ -63,7 +63,7 @@ This single document tracks ALL your CFP exam preparation progress, including:
 
 **Slides**: Fundamentals (pages 40-90)
 
-### ‚úÖ Mastered Topics (8/10)
+### ‚ú?Mastered Topics (8/10)
 
 - [x] **B.7 Financial planning process** (2025-10-20) - **Medium-High confidence**
   - **Integrated planning**: Address stated client objectives, identify gaps
@@ -77,12 +77,12 @@ This single document tracks ALL your CFP exam preparation progress, including:
     - **Fixed Expenses**: Same exact dollar amount every single month
       - Can predict EXACT number, doesn't change based on usage
       - Examples: Mortgage, car loan, insurance premiums, HOA fees, subscriptions, property taxes
-      - Test: Can you predict the exact $? If YES ‚Üí Fixed
+      - Test: Can you predict the exact $? If YES ‚Ü?Fixed
     - **Variable Expenses**: Amount changes month to month
       - Know you'll have expense, but dollar varies based on usage/season/behavior
       - Examples: Utilities, food/groceries, gas, travel, clothing, medical, home maintenance
-      - Test: Can you predict the exact $? If NO (could be $100 or $300) ‚Üí Variable
-    - **Key Distinction**: Regular expense ‚â† Fixed expense
+      - Test: Can you predict the exact $? If NO (could be $100 or $300) ‚Ü?Variable
+    - **Key Distinction**: Regular expense ‚â?Fixed expense
       - Utilities are REGULAR (pay monthly) but VARIABLE (amount changes)
       - Mortgage is REGULAR and FIXED (same $2,500 every month)
     - **Budgeting Application**:
@@ -90,7 +90,7 @@ This single document tracks ALL your CFP exam preparation progress, including:
       - Step 2: Estimate variable expenses (average with buffer)
       - Step 3: Build flexibility for variable fluctuations
     - **Memory Trick**: "If the NUMBER changes, it's VARIABLE. If the NUMBER is the SAME, it's FIXED"
-    - Perfect understanding after one explanation ‚úì
+    - Perfect understanding after one explanation ‚ú?
   - **In slides**: Pages 45-50 (Balance sheet, Income statement, Cash flow statement)
   - **Still need to cover**: Net worth calculation, asset/liability classification, balance sheet structure
 
@@ -99,7 +99,7 @@ This single document tracks ALL your CFP exam preparation progress, including:
   - **6-month rule**: Married with one income source (vs 3 months dual income)
   - **Liquidity assessment**: What counts as accessible funds
   - **Key rule**: Assets maturing within 3-6 months count as emergency fund
-  - **Jack problem**: Bond maturing in 3 months = liquid ($44,200 total) ‚úì
+  - **Jack problem**: Bond maturing in 3 months = liquid ($44,200 total) ‚ú?
   - **What counts**:
     - Cash, savings, money market
     - Short-term CDs
@@ -120,7 +120,7 @@ This single document tracks ALL your CFP exam preparation progress, including:
       - **Excellent professional judgment**: CFP should test real-world communication
       - For exam: "Utilize/monetize/convert" = broader than "access"
     - Home Equity = Home Value - Mortgage Balance
-    - Selling converts illiquid equity ‚Üí liquid cash
+    - Selling converts illiquid equity ‚Ü?liquid cash
   - **In slides**: Pages 45-50
 
 - [x] **B.12 Time value of money** (2025-10-17) - **High confidence**
@@ -131,21 +131,21 @@ This single document tracks ALL your CFP exam preparation progress, including:
 
 - [x] **B.10 Financing and debt management** (2025-11-01) - **High confidence**
   - **Financial Ratios - The "28-36 + 3-6-10" Memory System** (2025-11-01) - MASTERED:
-    - **Housing Ratio (Front-end)**: Monthly Housing (PITI) √∑ Gross Monthly Income ‚â§ **28%**
+    - **Housing Ratio (Front-end)**: Monthly Housing (PITI) √∑ Gross Monthly Income ‚â?**28%**
       - PITI = Principal, Interest, Taxes, Insurance
       - Only housing costs, not other debt
-    - **Total Debt Ratio (Back-end)**: Total Monthly Debt √∑ Gross Monthly Income ‚â§ **36%**
+    - **Total Debt Ratio (Back-end)**: Total Monthly Debt √∑ Gross Monthly Income ‚â?**36%**
       - Includes ALL debt: Housing + car + student loans + credit cards + other
     - **Emergency Fund Ratio**: **3-6 months** of expenses saved
       - 6 months if: Married with one income OR self-employed
       - 3 months if: Dual income household
-    - **Current Ratio**: Current Assets √∑ Current Liabilities ‚â• **1.0** (higher is better)
+    - **Current Ratio**: Current Assets √∑ Current Liabilities ‚â?**1.0** (higher is better)
       - Measures liquidity - can you pay short-term debts?
     - **Savings Ratio**: Annual Savings √∑ Gross Annual Income = **10-12%**
       - Includes retirement contributions, emergency fund savings
     - **Memory Trick**: "28 before 36" (Housing comes before Total, like house is foundation)
     - **Memory System**: "28-36 Rule + 3-6-10" (debt ratios, then emergency months, then savings %)
-    - Perfect on practice problem (Sarah & Tom 27% housing, 35% total debt) ‚úì
+    - Perfect on practice problem (Sarah & Tom 27% housing, 35% total debt) ‚ú?
   - **In slides**: Pages 50-60 (Ratios, Mortgages, Buy vs Rent)
   - **Still need to cover**: Mortgage types (conventional, ARM, reverse), refinancing decisions, buy vs rent analysis
 
@@ -155,10 +155,10 @@ This single document tracks ALL your CFP exam preparation progress, including:
     - Monetary = Federal Reserve uses interest rates and money supply
     - **Restrictive/Contractionary fiscal policy**: Increase taxes + Decrease spending
       - Goal: Slow economy to fight inflation
-      - Result: Budget surplus ‚Üí Pays down government debt
+      - Result: Budget surplus ‚Ü?Pays down government debt
     - **Expansionary fiscal policy**: Decrease taxes + Increase spending
       - Goal: Stimulate economy
-      - Result: Budget deficit ‚Üí Increases debt
+      - Result: Budget deficit ‚Ü?Increases debt
     - **Key distinction**: Fiscal vs Monetary are different tools, not opposing forces
   - **GDP Components** (MASTERED):
     - **Formula**: GDP = C + I + G + NX (MUST MEMORIZE)
@@ -179,12 +179,12 @@ This single document tracks ALL your CFP exam preparation progress, including:
 - [x] **B.13 Education needs analysis** (2025-10-27) - **Medium confidence** (PARTIAL)
   - **What it calculates**: How much to SAVE for future education costs
   - **Key factors needed**:
-    - ‚úÖ Expected inflation rate (project future costs)
-    - ‚úÖ Time until college begins (time horizon for savings/investments)
-    - ‚úÖ Expected investment returns
+    - ‚ú?Expected inflation rate (project future costs)
+    - ‚ú?Time until college begins (time horizon for savings/investments)
+    - ‚ú?Expected investment returns
   - **What's NOT included**:
-    - ‚ùå Student's career longevity (happens after college, irrelevant to costs)
-    - ‚ùå Family's financial aid contribution (too uncertain, separate analysis)
+    - ‚ù?Student's career longevity (happens after college, irrelevant to costs)
+    - ‚ù?Family's financial aid contribution (too uncertain, separate analysis)
   - **Critical distinction**:
     - **Education Needs Analysis** (CFP does): Calculate costs and required savings
     - **Financial Aid Analysis** (FAFSA does): Estimate aid eligibility (separate process)
@@ -205,12 +205,12 @@ This single document tracks ALL your CFP exam preparation progress, including:
       - No income limits
       - Tax-free growth for qualified education expenses
     - **FAFSA Asset Treatment**:
-      - Roth IRA (parent): 0% assessment ‚úÖ BEST for financial aid
+      - Roth IRA (parent): 0% assessment ‚ú?BEST for financial aid
       - 529 Plan: 5.64% parent asset (moderate impact)
       - Coverdell ESA: 5.64% parent asset (moderate impact)
-      - UGMA/UTMA: 20% STUDENT asset ‚ùå WORST (kills aid + child controls at 18-21)
-    - **Memory System**: "Aid mentioned? ‚Üí Roth wins. Aid not mentioned? ‚Üí 529 wins."
-    - **EXCELLENT pattern recognition** - Student independently identified this pattern! ‚úì
+      - UGMA/UTMA: 20% STUDENT asset ‚ù?WORST (kills aid + child controls at 18-21)
+    - **Memory System**: "Aid mentioned? ‚Ü?Roth wins. Aid not mentioned? ‚Ü?529 wins."
+    - **EXCELLENT pattern recognition** - Student independently identified this pattern! ‚ú?
   - **In slides**: Pages 60-70 (529, Coverdell, UGMA/UTMA, Roth IRA, Series EE bonds, 529A ABLE)
 
 - [x] **B.16 Gift/income tax strategies** (2025-11-01) - **High confidence**
@@ -229,14 +229,14 @@ This single document tracks ALL your CFP exam preparation progress, including:
       - Enrollment: Any (even 1 class)
       - NOT refundable
       - MAGI Phase-out: Same as AOTC
-    - **Decision Tree**: Undergraduate in first 4 years? ‚Üí AOTC (almost always wins with $2,500 max)
+    - **Decision Tree**: Undergraduate in first 4 years? ‚Ü?AOTC (almost always wins with $2,500 max)
     - **Key Exam Traps**:
       - "Per student vs per family" - AOTC per student, LLC per family
       - "Refundable" - AOTC 40% refundable, LLC not refundable
       - "First 4 years limit" - AOTC can only claim 4 times per student
     - **Memory System**: "Undergrad gets MORE, Grad gets LESS"
-    - **EXCELLENT pattern recognition** - Student said "AOTC for undergrad, LLC for postgrad" ‚úì
-    - Perfect on practice problem (Jennifer $8K tuition ‚Üí AOTC $2,500 vs LLC $1,600) ‚úì
+    - **EXCELLENT pattern recognition** - Student said "AOTC for undergrad, LLC for postgrad" ‚ú?
+    - Perfect on practice problem (Jennifer $8K tuition ‚Ü?AOTC $2,500 vs LLC $1,600) ‚ú?
   - **In slides**: Pages 70-80 (Student Loan Interest, LLC, AOTC, Employer Education Assistance)
 
 ### Not Yet Studied (2/10 topics)
@@ -252,7 +252,7 @@ This single document tracks ALL your CFP exam preparation progress, including:
 
 **Slides**: Insurance (188 pages comprehensive)
 
-### ‚úÖ Mastered Topics (10/10) - DOMAIN COMPLETE ‚úÖ
+### ‚ú?Mastered Topics (10/10) - DOMAIN COMPLETE ‚ú?
 
 - [x] **C.19 Health insurance** (2025-10-15) - **Medium-High confidence**
   - Medicare Parts A/B/C/D
@@ -280,7 +280,7 @@ This single document tracks ALL your CFP exam preparation progress, including:
   - Modified Any Occupation
   - **Group LTD Taxation** (2025-10-20) - MASTERED:
     - Either premium OR benefit taxable (not both)
-    - Employer pays premiums ‚Üí benefits taxable as ordinary income
+    - Employer pays premiums ‚Ü?benefits taxable as ordinary income
     - Taxed "without regard to" offsets or other income
     - IRC ¬ß104, ¬ß105, ¬ß106
   - **In slides**: Pages 175-180, definitions, benefit periods, taxation
@@ -289,7 +289,7 @@ This single document tracks ALL your CFP exam preparation progress, including:
   - **Estate Preservation Tool**: Protects assets from nursing home costs ($96-144K/year)
   - Age 70 considerations: High premiums ($2,075-$6,600/year), 50% rejection rate
   - Real world vs CFP exam: Exam emphasizes "healthy" = assume can get coverage
-  - **Gina problem**: LTC insurance protects $350K estate from depletion ‚úì
+  - **Gina problem**: LTC insurance protects $350K estate from depletion ‚ú?
   - **Medicaid Waiver Programs** (2025-10-23) - MASTERED:
     - HCBS (Home and Community-Based Services) Waiver Programs
     - "Waives" institutional requirement - allows care at home instead of nursing facility
@@ -324,7 +324,7 @@ This single document tracks ALL your CFP exam preparation progress, including:
   - **Education Addition**: $100K per child
   - **Breadwinner Priority**: Insure income producer FIRST
   - **Stay-at-Home Parent**: ~$162K/year value (childcare, household management)
-  - **$150K earner example**: Needs $1.5M-$2.7M, not $250K ‚úì
+  - **$150K earner example**: Needs $1.5M-$2.7M, not $250K ‚ú?
   - **In slides**: Pages 185-188 (Capital needs, Human life value, Income multiplier)
 
 - [x] **C.26 Policy selection** (2025-10-13/15, 2025-10-21) - **High confidence**
@@ -381,7 +381,7 @@ This single document tracks ALL your CFP exam preparation progress, including:
   - Disability buy-out insurance
   - **In slides**: Pages 175-188
 
-**Priority**: **COMPLETE** - Insurance domain 100% mastered! ‚úÖ
+**Priority**: **COMPLETE** - Insurance domain 100% mastered! ‚ú?
 
 ---
 
@@ -389,7 +389,7 @@ This single document tracks ALL your CFP exam preparation progress, including:
 
 **Slides**: Investments (188 pages)
 
-### ‚úÖ Mastered Topics (8/9 - partial)
+### ‚ú?Mastered Topics (8/9 - partial)
 
 - [x] **D.27 Investment vehicles** (2025-10-24, 2025-11-01) - **High confidence** (PARTIAL)
   - **Zero-Coupon Bonds** (2025-10-24) - MASTERED:
@@ -400,24 +400,24 @@ This single document tracks ALL your CFP exam preparation progress, including:
     - Phantom income problem (pay tax on money not received)
     - Best held in tax-deferred accounts (IRA, 401k)
     - Calculate implied YTM: FV = PV √ó (1 + r)^n
-    - Perfect on practice problem (10-year bond, Year 2 tax calculation) ‚úì
+    - Perfect on practice problem (10-year bond, Year 2 tax calculation) ‚ú?
   - **Treasury Securities** (2025-10-24):
-    - T-Bills ‚Üí T-Notes ‚Üí T-Bonds (shortest to longest maturity)
+    - T-Bills ‚Ü?T-Notes ‚Ü?T-Bonds (shortest to longest maturity)
   - **GNMA (Ginnie Mae) Mortgage-Backed Securities** (2025-11-01) - MASTERED:
     - **What it is**: Pools of home mortgages packaged into securities
-    - **Backed by US government** ‚Üí Low default risk ‚úì
-    - **The Problem: Prepayment Risk** ‚ùå
+    - **Backed by US government** ‚Ü?Low default risk ‚ú?
+    - **The Problem: Prepayment Risk** ‚ù?
       - Homeowners can prepay mortgages anytime (refinance, sell, extra payments)
-      - When rates drop ‚Üí lots of refinancing ‚Üí lots of prepayments
-      - Investor gets principal back early ‚Üí must reinvest at lower rates
+      - When rates drop ‚Ü?lots of refinancing ‚Ü?lots of prepayments
+      - Investor gets principal back early ‚Ü?must reinvest at lower rates
       - Monthly cash flow is UNPREDICTABLE (could be $500 or $800)
     - **Key Distinction**: "GNMA has a fixed RATE but not fixed CASH FLOW"
       - Fixed rate: Coupon rate doesn't change (e.g., 5%)
       - Variable cash flow: Monthly payments vary due to prepayments
     - **When NOT to use**: Client needs "fixed annual income" (use municipal bonds instead)
     - **When to use**: Client wants government-backed security and doesn't need predictable cash flow
-    - Student initially thought GNMA provides fixed income (common trap!) ‚úì
-    - Now understands difference between fixed rate vs fixed cash flow ‚úì
+    - Student initially thought GNMA provides fixed income (common trap!) ‚ú?
+    - Now understands difference between fixed rate vs fixed cash flow ‚ú?
   - **In slides**: Pages 20-50
   - **Still need to cover**: Stocks, mutual funds, REITs, ETFs, options, futures, ADRs
 
@@ -446,7 +446,7 @@ This single document tracks ALL your CFP exam preparation progress, including:
       - Range trading: Buy at support, sell at resistance
       - Breakout trading: Buy when breaks above resistance
     - **Memory trick**: Ball bouncing in room (floor = support, ceiling = resistance)
-    - Perfect on practice problem (stock trading $20-$26 range) ‚úì
+    - Perfect on practice problem (stock trading $20-$26 range) ‚ú?
   - **In slides**: Pages 75-95
   - **Still need to cover**: EMH (weak/semi-strong/strong), yield curve theories, market anomalies
 
@@ -455,16 +455,16 @@ This single document tracks ALL your CFP exam preparation progress, including:
     - Acts like perpetuity (pays fixed dividend forever)
     - **Formula**: Intrinsic Value = Annual Dividend √∑ Required Return
     - Annual Dividend = Par Value √ó Dividend Yield
-    - Intrinsic value ‚â† Market price
+    - Intrinsic value ‚â?Market price
     - Compare to determine if overvalued or undervalued
-    - Perfect on practice problem ($35 par, 7% yield, 9% required = $27.22) ‚úì
+    - Perfect on practice problem ($35 par, 7% yield, 9% required = $27.22) ‚ú?
   - **Bond Yields - YTM vs YTC** (2025-10-24) - MASTERED:
     - **YTM (Yield to Maturity)**: Total return if held to maturity
     - **YTC (Yield to Call)**: Total return if called early
-    - **Shortcut**: Trading at par ‚Üí YTM = Coupon Rate
+    - **Shortcut**: Trading at par ‚Ü?YTM = Coupon Rate
     - **Callable bonds**: YTC > YTM when call price > current price
     - Call risk: Bond called when rates drop (must reinvest at lower rates)
-    - Perfect on practice problem (25-yr bond, 10% coupon at par, callable at $1,050) ‚úì
+    - Perfect on practice problem (25-yr bond, 10% coupon at par, callable at $1,050) ‚ú?
   - **Bond Yield Rankings - MASTER PATTERN** (2025-10-24) - MASTERED:
     - **Premium bonds** (Price > $1,000): **YTC < YTM < CY < CR**
       - YTC lowest (lose premium soonest if called)
@@ -483,15 +483,15 @@ This single document tracks ALL your CFP exam preparation progress, including:
       - Premium: "Call Yields Terrible Misery" (YTC < YTM < CY < CR)
       - Discount: "Can't You Try Calling?" (CR < CY < YTM < YTC)
       - Par: "Everyone's Equal"
-    - Comprehensive understanding demonstrated ‚úì
+    - Comprehensive understanding demonstrated ‚ú?
   - **Portfolio Immunization** (2025-10-25) - MASTERED:
     - Balances **price risk** and **reinvestment risk**
     - When rates rise: bond prices fall BUT reinvestment income rises (offsetting)
     - When rates fall: bond prices rise BUT reinvestment income falls (offsetting)
     - Match bond duration to liability time horizon
     - **Pension fund example**: 5-year liability, buy 5-year duration bond
-    - If rates change, two risks cancel out ‚Üí still meet liability ‚úì
-    - Perfect on practice problem ‚úì
+    - If rates change, two risks cancel out ‚Ü?still meet liability ‚ú?
+    - Perfect on practice problem ‚ú?
   - **Modified Duration** (2025-10-25) - MASTERED:
     - **Two types of duration**:
       - **Macaulay Duration**: Time-weighted measure (in years)
@@ -499,28 +499,28 @@ This single document tracks ALL your CFP exam preparation progress, including:
     - **Conversion**: Modified Duration = Macaulay Duration / (1 + yield)
     - **Price change formula**: % Change = -Modified Duration √ó Œîyield
     - **Critical exam trap**: Must convert Macaulay to Modified before using in formula!
-    - Example: Macaulay 10 years, yield 8% ‚Üí Modified = 9.26
-    - 2% rate increase ‚Üí -18.5% price change (NOT -20%!)
-    - Student correctly challenged wrong answer ‚úì
+    - Example: Macaulay 10 years, yield 8% ‚Ü?Modified = 9.26
+    - 2% rate increase ‚Ü?-18.5% price change (NOT -20%!)
+    - Student correctly challenged wrong answer ‚ú?
   - **Gordon Growth Model with Retention Ratio** (2025-10-25) - MASTERED:
     - **Retention Ratio**: % of earnings kept (not paid as dividends)
     - **Payout Ratio**: 1 - Retention Ratio
     - **Growth Rate**: g = ROE √ó Retention Ratio
-    - **Gordon Model**: P‚ÇÄ = D‚ÇÅ / (r - g)
-    - Example: ROE 12.5%, retention 50% ‚Üí g = 6.25%
-    - D‚ÇÄ $3.50, r 12% ‚Üí Intrinsic Value = $64.70 ‚úì
+    - **Gordon Model**: P‚ÇÄ = D‚Ç?/ (r - g)
+    - Example: ROE 12.5%, retention 50% ‚Ü?g = 6.25%
+    - D‚ÇÄ $3.50, r 12% ‚Ü?Intrinsic Value = $64.70 ‚ú?
     - **Trade-off**: Higher retention = higher growth but lower current dividends
-    - Perfect on practice problem ‚úì
+    - Perfect on practice problem ‚ú?
   - **Gordon Growth Model - D0 vs D1 Clarification** (2025-11-01) - Reinforced:
     - **D‚ÇÄ = Just paid** (most recent dividend already distributed)
-    - **D‚ÇÅ = Next dividend** (coming soon, use directly in formula)
+    - **D‚Ç?= Next dividend** (coming soon, use directly in formula)
     - **When to use which**:
-      - Given D‚ÇÄ (just paid): Must grow it first ‚Üí D‚ÇÅ = D‚ÇÄ √ó (1 + g), then use P‚ÇÄ = D‚ÇÅ / (r - g)
-      - Given D‚ÇÅ (next dividend): Use directly ‚Üí P‚ÇÄ = D‚ÇÅ / (r - g)
+      - Given D‚ÇÄ (just paid): Must grow it first ‚Ü?D‚Ç?= D‚ÇÄ √ó (1 + g), then use P‚ÇÄ = D‚Ç?/ (r - g)
+      - Given D‚Ç?(next dividend): Use directly ‚Ü?P‚ÇÄ = D‚Ç?/ (r - g)
     - **Example**: Stock just paid $1.64 (D‚ÇÄ), g = 2.25%, r = 7.5%
-      - D‚ÇÅ = $1.64 √ó 1.0225 = $1.6769
-      - Intrinsic Value = $1.6769 / (0.075 - 0.0225) = $31.94 ‚úì
-    - Student practiced this successfully on Mark's stock valuation problem ‚úì
+      - D‚Ç?= $1.64 √ó 1.0225 = $1.6769
+      - Intrinsic Value = $1.6769 / (0.075 - 0.0225) = $31.94 ‚ú?
+    - Student practiced this successfully on Mark's stock valuation problem ‚ú?
   - **Multi-Stage Dividend Discount Model** (2025-10-25, 2025-11-01) - MASTERED:
     - **Two-Stage Model**: Different growth rates for different periods
     - **Process**:
@@ -528,16 +528,16 @@ This single document tracks ALL your CFP exam preparation progress, including:
       2. Calculate terminal value at end of high-growth phase
       3. Discount all cash flows to present value
     - **Critical**: Switch growth rate at CORRECT time
-      - If D‚ÇÉ is last dividend at old rate (2.25%), then D‚ÇÑ is first at new rate (2.75%)
-      - Formula: D‚ÇÑ = D‚ÇÉ √ó (1 + new_g) = D‚ÇÉ √ó 1.0275
+      - If D‚Ç?is last dividend at old rate (2.25%), then D‚Ç?is first at new rate (2.75%)
+      - Formula: D‚Ç?= D‚Ç?√ó (1 + new_g) = D‚Ç?√ó 1.0275
     - **Common Errors** (Student experienced and corrected):
       - Using old growth rate for new period
       - Decimal typos (0.00275 vs 0.0275)
       - Not switching rates at correct dividend
     - **Example Timeline**: ABC stock
-      - Today ‚Üí Year 3: g = 2.25%
+      - Today ‚Ü?Year 3: g = 2.25%
       - Year 4+: g = 2.75% (must switch here!)
-    - Multiple practice problems completed with excellent verification ‚úì
+    - Multiple practice problems completed with excellent verification ‚ú?
   - **In slides**: Pages 95-130
   - **Still need to cover**: P/E ratios
 
@@ -560,8 +560,8 @@ This single document tracks ALL your CFP exam preparation progress, including:
     - Beta < 1: Less volatile than market (requires lower return)
     - Beta = 1: Same as market
     - **NOT an equation to solve for x** - formula directly gives required return
-    - Example: Beta 1.20, RF 1%, MRP 7% ‚Üí Required Return = 9.4% ‚úì
-    - Perfect on practice problem ‚úì
+    - Example: Beta 1.20, RF 1%, MRP 7% ‚Ü?Required Return = 9.4% ‚ú?
+    - Perfect on practice problem ‚ú?
   - **Risk-Adjusted Performance Ratios** (2025-10-25, 2025-11-01) - MASTERED:
     - **"S-T-A" Memory System** for non-English speakers:
       - **S**harpe uses **S**tandard deviation
@@ -569,7 +569,7 @@ This single document tracks ALL your CFP exam preparation progress, including:
       - **A**lpha = **A**ctual vs Expected
     - **Sharpe Ratio** = (Return - Risk-free) / Standard Deviation
       - Measures return per unit of TOTAL risk
-      - Use when: Comparing funds with different risk levels ‚úì
+      - Use when: Comparing funds with different risk levels ‚ú?
       - Example: Fund C had 0.35 (best) vs Fund A 0.33, Fund B 0.30
     - **Treynor Ratio** = (Return - Risk-free) / Beta
       - Measures return per unit of SYSTEMATIC risk
@@ -577,13 +577,13 @@ This single document tracks ALL your CFP exam preparation progress, including:
     - **Alpha** = Actual Return - [RF + Beta √ó (Market Return - RF)]
       - Measures excess return beyond CAPM prediction
       - Use when: Did manager beat the market?
-    - **Decision Tree**: Std dev given ‚Üí Sharpe, Beta only ‚Üí Treynor, "Beat market" ‚Üí Alpha
+    - **Decision Tree**: Std dev given ‚Ü?Sharpe, Beta only ‚Ü?Treynor, "Beat market" ‚Ü?Alpha
     - **Clarification (2025-11-01)**: Student initially thought "Sharpe = return per correlation"
       - **CORRECTED**: Sharpe = return per STANDARD DEVIATION (not correlation)
       - Correlation measures relationship between two assets
       - Standard deviation measures volatility of single asset
-      - Both Sharpe and Treynor measure risk-adjusted returns, just different risk measures ‚úì
-    - Perfect on practice problems (Sharpe Ratio) ‚úì
+      - Both Sharpe and Treynor measure risk-adjusted returns, just different risk measures ‚ú?
+    - Perfect on practice problems (Sharpe Ratio) ‚ú?
   - **Geometric vs Arithmetic Average** (2025-10-25) - MASTERED:
     - **Visual memory system** (non-English dependent):
       - Arithmetic üìè = STRAIGHT line (add √∑ count)
@@ -592,17 +592,17 @@ This single document tracks ALL your CFP exam preparation progress, including:
       - Harmonic üöó = SPEED (for rates, rarely investments)
     - **Arithmetic Average**: Simple average, ignores compounding, overstates performance
     - **Geometric Average**: Shows ACTUAL money growth, accounts for compounding
-      - Formula: [(1+r‚ÇÅ) √ó (1+r‚ÇÇ) √ó ...]^(1/n) - 1
-      - Always ‚â§ arithmetic (especially with volatility)
+      - Formula: [(1+r‚Ç? √ó (1+r‚Ç? √ó ...]^(1/n) - 1
+      - Always ‚â?arithmetic (especially with volatility)
       - **Use when**: Multi-period returns (CFP exam default)
     - Example: Returns 12%, -8%, 15%, 5%, 10%
       - Arithmetic: 6.8%
-      - Geometric: 6.47% (more accurate) ‚úì
-    - Perfect on practice problem ‚úì
+      - Geometric: 6.47% (more accurate) ‚ú?
+    - Perfect on practice problem ‚ú?
   - **In slides**: Pages 60-75 (HPR, IRR, Standard deviation, Beta, Sharpe/Treynor/Jensen, NPV)
   - **Still need to cover**: Standard deviation calculations, NPV/IRR calculations
 
-### ‚úÖ Mastered Topics (9/9) - DOMAIN COMPLETE ‚úÖ
+### ‚ú?Mastered Topics (9/9) - DOMAIN COMPLETE ‚ú?
 
 - [x] **D.31 Asset allocation and portfolio diversification** (2025-10-28) - **Medium confidence** (PARTIAL)
   - **Capital Market Line (CML)** (MASTERED):
@@ -618,13 +618,13 @@ This single document tracks ALL your CFP exam preparation progress, including:
       - Shows extra return per unit of risk taken
       - Example: (10% - 2%) / 15% = 0.533 (0.533% extra return per 1% risk)
     - **Visual**: Straight line from risk-free rate through market portfolio point
-    - **Application**: Want 10% risk ‚Üí E(Rp) = 2% + 0.533 √ó 10% = 7.33% return
+    - **Application**: Want 10% risk ‚Ü?E(Rp) = 2% + 0.533 √ó 10% = 7.33% return
     - **Portfolio mix**: Combine percentages of T-Bills and market portfolio to achieve target risk
-    - Perfect conceptual understanding, needs practice problems ‚úì
+    - Perfect conceptual understanding, needs practice problems ‚ú?
   - **In slides**: Pages 60-75 (MPT, Efficient frontier, CAPM, CML)
   - **Still need to cover**: Modern Portfolio Theory details, Efficient Frontier, CAPM connection
 
-**Priority**: **INVESTMENT PLANNING DOMAIN 100% COMPLETE!** ‚úÖ (17% of exam - second highest weighted domain mastered!)
+**Priority**: **INVESTMENT PLANNING DOMAIN 100% COMPLETE!** ‚ú?(17% of exam - second highest weighted domain mastered!)
 
 ---
 
@@ -632,7 +632,7 @@ This single document tracks ALL your CFP exam preparation progress, including:
 
 **Slides**: Tax (150 pages)
 
-### ‚úÖ Mastered Topics (6/8)
+### ‚ú?Mastered Topics (6/8)
 
 - [x] **E.36 Tax law fundamentals** (2025-10-11, 2025-10-25, 2025-11-01, 2025-11-02) - **High confidence**
   - Tax doctrines: Step transaction, Constructive receipt, Assignment of income
@@ -643,19 +643,19 @@ This single document tracks ALL your CFP exam preparation progress, including:
     - **The Trap**: Prepaying property taxes when IN AMT
       - Prepaying seems smart (accelerate deduction to current year)
       - But in AMT: You DON'T get the deduction anyway!
-      - Result: Prepaying creates ADD-BACK ‚Üí INCREASES AMTI exposure ‚ùå
+      - Result: Prepaying creates ADD-BACK ‚Ü?INCREASES AMTI exposure ‚ù?
     - **Why NQSOs Increase AMT More Than Property Tax Prepayment**:
       - Property tax prepayment: Creates add-back but no actual income
       - NQSO exercise: Creates ACTUAL ORDINARY INCOME taxed at AMT rates
       - When already in AMT (high base), adding income increases AMT more than add-backs
-      - NQSOs = Large income increase ‚Üí Largest AMT increase ‚úì
+      - NQSOs = Large income increase ‚Ü?Largest AMT increase ‚ú?
     - **The AMT Add-Backs to Know** (IRC ¬ß56, ¬ß57):
-      - ‚úÖ State/local income taxes (SALT)
-      - ‚úÖ Property taxes
-      - ‚úÖ Miscellaneous itemized deductions (pre-TCJA)
-      - ‚úÖ ISO spread (incentive stock options - big one!)
-      - ‚ùå Charitable contributions (NOT added back)
-      - ‚ùå Mortgage interest on primary residence (NOT added back)
+      - ‚ú?State/local income taxes (SALT)
+      - ‚ú?Property taxes
+      - ‚ú?Miscellaneous itemized deductions (pre-TCJA)
+      - ‚ú?ISO spread (incentive stock options - big one!)
+      - ‚ù?Charitable contributions (NOT added back)
+      - ‚ù?Mortgage interest on primary residence (NOT added back)
     - **Memory System**: "AMT SALT Trap"
       - **A**MT doesn't allow state/local/property taxes
       - **M**unicipals are ok (usually)
@@ -664,8 +664,8 @@ This single document tracks ALL your CFP exam preparation progress, including:
       - **A**dds to AMTI
       - **L**ose the deduction
       - **T**axed twice (paid tax, no benefit)
-    - Student initially selected prepaying property taxes thinking it helps avoid AMT ‚úì
-    - Now understands: Property taxes NOT deductible for AMT, prepaying increases exposure ‚úì
+    - Student initially selected prepaying property taxes thinking it helps avoid AMT ‚ú?
+    - Now understands: Property taxes NOT deductible for AMT, prepaying increases exposure ‚ú?
   - **Divorced Parent Dependency Rules - IRC ¬ß152(e)** (2025-11-01) - MASTERED:
     - **Custodial Parent Rule**: Custodial parent (more nights with child) claims dependency exemption by DEFAULT
     - **Overrides financial support**: True even if non-custodial parent provides MORE $ support
@@ -678,7 +678,7 @@ This single document tracks ALL your CFP exam preparation progress, including:
       - Without Form 8332, custody ALWAYS wins (support % irrelevant)
     - **Key Trap**: Financial support percentage does NOT determine who claims dependent in divorce situations
     - **Example**: Ruth (custodial parent) vs Doug (provides 75% support, $15K/year)
-      - No Form 8332 written agreement ‚Üí Ruth claims both children ‚úì
+      - No Form 8332 written agreement ‚Ü?Ruth claims both children ‚ú?
       - Doug's higher support doesn't matter under IRC ¬ß152(e)
     - **Normal Dependency vs Divorce Rule**:
       - Normal: Whoever provides >50% support claims dependent
@@ -687,7 +687,7 @@ This single document tracks ALL your CFP exam preparation progress, including:
       - Custodial parent gets dependency by default
       - Unless Form 8332 signed (written release)
       - Support % doesn't matter (special divorce rule)
-    - Perfect understanding ‚úì
+    - Perfect understanding ‚ú?
   - **Municipal Bond Taxation** (2025-10-25) - MASTERED:
     - Municipal bonds have TWO types of income:
       1. **INTEREST income** (coupon payments):
@@ -699,7 +699,7 @@ This single document tracks ALL your CFP exam preparation progress, including:
          - No exemption! Capital gains fully taxable even on munis
     - **Corrected misconception**: Student thought munis avoided all federal tax
     - **Key insight**: Interest tax-free, but capital gains ARE taxable
-    - This distinction critical for capital loss offset strategies ‚úì
+    - This distinction critical for capital loss offset strategies ‚ú?
   - **Treasury Bond Taxation**:
     - INTEREST: Federal taxable, state exempt
     - CAPITAL GAINS: Fully taxable (both levels)
@@ -722,7 +722,7 @@ This single document tracks ALL your CFP exam preparation progress, including:
     - **2024 Kiddie Tax Thresholds**:
       - First $1,300: Tax-free (standard deduction for unearned income)
       - Next $1,300: Taxed at child's rate (usually 10%)
-      - **Amount over $2,600**: Taxed at PARENT'S marginal rate ‚úì
+      - **Amount over $2,600**: Taxed at PARENT'S marginal rate ‚ú?
     - **Form 8615 Required** when:
       - Child under 19 (or under 24 if student)
       - Unearned income > $2,600
@@ -732,28 +732,28 @@ This single document tracks ALL your CFP exam preparation progress, including:
       - First $1,300: $0 tax (standard deduction)
       - Next $1,300: Taxed at Sarah's rate (10%) = $130
       - Remaining $2,400: Taxed at Fred's marginal rate (e.g., 24% = $576)
-      - Total tax: $130 + $576 = $706 ‚úì
+      - Total tax: $130 + $576 = $706 ‚ú?
     - **Why Kiddie Tax Exists** (Policy):
-      - Pre-1986: Parents gifted assets to kids ‚Üí income taxed at kid's low rate (tax avoidance)
+      - Pre-1986: Parents gifted assets to kids ‚Ü?income taxed at kid's low rate (tax avoidance)
       - Congress response (1986): Kiddie Tax prevents income-shifting
     - **UGMA vs Trust**:
       - UGMA = Child's account (child is taxpayer), Kiddie Tax applies
       - Trust = Separate entity, trust tax rates (compressed, 37% at $15,200)
-      - Student initially confused UGMA with trust ‚úì
+      - Student initially confused UGMA with trust ‚ú?
     - **FAFSA Impact**:
-      - UGMA/UTMA = Child asset ‚Üí 20% assessment rate
-      - Parent asset ‚Üí 5.64% assessment rate
-      - $10,000 in UGMA ‚Üí Reduces aid by $2,000/year
+      - UGMA/UTMA = Child asset ‚Ü?20% assessment rate
+      - Parent asset ‚Ü?5.64% assessment rate
+      - $10,000 in UGMA ‚Ü?Reduces aid by $2,000/year
     - **Memory System**:
       - "UGMA = Under Grantor's Management, Asset's child's"
       - "Kiddie Tax: $1,300 Free, $1,300 Kid, Rest to MOM & DAD"
       - "UGMA = 20% FAFSA hit"
-    - Perfect understanding ‚úì
+    - Perfect understanding ‚ú?
   - **Estimated tax safe harbor rules** (2025-10-19) - MASTERED:
-    - 100% prior year if AGI ‚â§ $150K, 110% if > $150K
+    - 100% prior year if AGI ‚â?$150K, 110% if > $150K
     - OR 90% of current year
     - Use LESSER amount to avoid penalty
-    - Perfect on lottery winnings problem ‚úì
+    - Perfect on lottery winnings problem ‚ú?
   - **OID (Original Issue Discount) Taxation - Zero-Coupon Bonds** (2025-10-24) - MASTERED:
     - OID = Par value - Purchase price
     - Must use **compound interest accretion** (NOT straight-line)
@@ -761,11 +761,11 @@ This single document tracks ALL your CFP exam preparation progress, including:
     - Each year: Taxable interest = Beginning value √ó YTM
     - Taxable amount increases each year (compound growth)
     - **Phantom income**: Pay tax on money not received
-    - Example: $445 bond ‚Üí $1,000 in 10 years at 8.41% YTM
+    - Example: $445 bond ‚Ü?$1,000 in 10 years at 8.41% YTM
       - Year 1: $445 √ó 8.41% = $37.42 tax
       - Year 2: $482.42 √ó 8.41% = $40.57 tax
     - Common trap: Straight-line would be ($1,000 - $445) √∑ 10 = $55.50 (WRONG!)
-    - Perfect on practice problem (Year 2 taxable interest calculation) ‚úì
+    - Perfect on practice problem (Year 2 taxable interest calculation) ‚ú?
   - **In slides**: Pages 20-50 (Filing status, Standard deduction, Gross income, Kiddie tax, AMT)
 
 - [x] **E.38 Business entity taxation** (2025-10-11, 2025-10-28, 2025-11-01, 2025-11-02) - **Medium-High confidence** (PARTIAL)
@@ -774,7 +774,7 @@ This single document tracks ALL your CFP exam preparation progress, including:
       1. **Dividend income** - Up to Earnings & Profits (E&P) amount
       2. **Return of basis** - Tax-free, reduces shareholder's stock basis
       3. **Capital gain** - After basis exhausted
-    - **Critical Distinction**: E&P ‚â† Cash Available
+    - **Critical Distinction**: E&P ‚â?Cash Available
       - **E&P (Earnings & Profits)** = TAX concept (accumulated taxable profits)
       - **Cash** = Actual money company has available
       - Company can have MORE cash than E&P (borrowing, asset sales, prior savings)
@@ -783,8 +783,8 @@ This single document tracks ALL your CFP exam preparation progress, including:
       - First $50K = Dividend (matches E&P)
       - Next $10K = Basis return (tax-free, reduces basis to $0)
       - Last $10K = Capital gain
-    - Student asked EXCELLENT question: "How can company distribute $70K with only $50K E&P?" ‚úì
-    - Perfect understanding of waterfall mechanics ‚úì
+    - Student asked EXCELLENT question: "How can company distribute $70K with only $50K E&P?" ‚ú?
+    - Perfect understanding of waterfall mechanics ‚ú?
   - **Section 1221 vs Section 1231 Property** (2025-11-01) - MASTERED:
     - **IRC ¬ß1221 - Definition of Capital Asset** (what IS a capital asset):
       - **Rule**: Everything is a capital asset EXCEPT what ¬ß1221 specifically excludes
@@ -803,8 +803,8 @@ This single document tracks ALL your CFP exam preparation progress, including:
         - Livestock (held for draft, dairy, breeding)
         - Unharvested crops sold with land
       - **The Magic**: If ¬ß1231 property sold:
-        - **Net gain** ‚Üí Taxed as LONG-TERM CAPITAL GAIN (15-20%, favorable!)
-        - **Net loss** ‚Üí Deducted as ORDINARY LOSS (against ordinary income, better!)
+        - **Net gain** ‚Ü?Taxed as LONG-TERM CAPITAL GAIN (15-20%, favorable!)
+        - **Net loss** ‚Ü?Deducted as ORDINARY LOSS (against ordinary income, better!)
         - "Best of both worlds" - gain = capital, loss = ordinary
       - **Memory Aid**: "¬ß1231 Says GO" (special treatment that helps you "go" = benefit)
     - **The Relationship Between ¬ß1221 and ¬ß1231**:
@@ -813,13 +813,13 @@ This single document tracks ALL your CFP exam preparation progress, including:
       - **Example**: Business building (depreciable real estate)
         - ¬ß1221: NOT a capital asset (excluded from definition)
         - ¬ß1231: Gets capital gain treatment anyway (if net ¬ß1231 gain)
-        - Student: "So it's kind of like an exception to the exception?" ‚Üí YES! Exactly! ‚úì
+        - Student: "So it's kind of like an exception to the exception?" ‚Ü?YES! Exactly! ‚ú?
     - **Lisa's Business Assets Example** (2025-11-01):
-      - Warehouse (depreciable real estate) ‚Üí ¬ß1231 property ‚úì
-      - Machinery (depreciable equipment) ‚Üí ¬ß1231 property ‚úì
-      - Inventory ‚Üí NOT ¬ß1231 (it's ordinary property)
+      - Warehouse (depreciable real estate) ‚Ü?¬ß1231 property ‚ú?
+      - Machinery (depreciable equipment) ‚Ü?¬ß1231 property ‚ú?
+      - Inventory ‚Ü?NOT ¬ß1231 (it's ordinary property)
       - **Rule**: ¬ß1231 = depreciable business property + business real estate (held >1 year)
-    - Perfect understanding of distinction and interaction ‚úì
+    - Perfect understanding of distinction and interaction ‚ú?
   - **Depreciation vs Amortization** (2025-11-02) - MASTERED:
     - **Key Distinction**: DIFFERENT tax methods for DIFFERENT asset types
     - **Depreciation (IRC ¬ß167, ¬ß168 MACRS)**:
@@ -835,24 +835,24 @@ This single document tracks ALL your CFP exam preparation progress, including:
       - NO Section 179, NO bonus depreciation
       - Starts month acquired
     - **Baxter's Assets Categorized** (2025-11-02):
-      - Trademark & Copyright: INTANGIBLE ‚Üí ‚úÖ AMORTIZABLE (IRC ¬ß197, 15 years)
-      - Office Building: TANGIBLE ‚Üí DEPRECIABLE (39-year MACRS), NOT amortizable
-      - Computers: TANGIBLE ‚Üí DEPRECIABLE (5-year MACRS), NOT amortizable
+      - Trademark & Copyright: INTANGIBLE ‚Ü?‚ú?AMORTIZABLE (IRC ¬ß197, 15 years)
+      - Office Building: TANGIBLE ‚Ü?DEPRECIABLE (39-year MACRS), NOT amortizable
+      - Computers: TANGIBLE ‚Ü?DEPRECIABLE (5-year MACRS), NOT amortizable
       - Land: NEVER depreciable or amortizable (doesn't wear out)
-    - **The Rule**: Can you TOUCH it? ‚Üí Depreciate. Can't touch it (idea/right)? ‚Üí Amortize
+    - **The Rule**: Can you TOUCH it? ‚Ü?Depreciate. Can't touch it (idea/right)? ‚Ü?Amortize
     - **Why Different Terms?**:
       - Both recover cost over time (same goal)
       - But different tax rules based on asset type
-      - Tangible wears out physically ‚Üí depreciation rules
-      - Intangible has legal/economic life ‚Üí amortization rules
+      - Tangible wears out physically ‚Ü?depreciation rules
+      - Intangible has legal/economic life ‚Ü?amortization rules
       - NOT interchangeable terms!
     - **Memory System**: "D.A.T.I. Rule"
       - **D**epreciation for **T**angible
       - **A**mortization for **I**ntangible
-    - **Drop Test**: "If you can DROP IT on your foot ‚Üí DEPRECIATE. If you can't DROP IT (not physical) ‚Üí AMORTIZE"
-    - Student initially confused office building (thought amortizable) ‚úì
-    - Now understands: Buildings = tangible = depreciable, NOT amortizable ‚úì
-    - Perfect clarity on distinction ‚úì
+    - **Drop Test**: "If you can DROP IT on your foot ‚Ü?DEPRECIATE. If you can't DROP IT (not physical) ‚Ü?AMORTIZE"
+    - Student initially confused office building (thought amortizable) ‚ú?
+    - Now understands: Buildings = tangible = depreciable, NOT amortizable ‚ú?
+    - Perfect clarity on distinction ‚ú?
   - **In slides**: Pages 135-145
   - **Still need to cover**: Section 179 expensing, MACRS depreciation, Mid-quarter convention
   - **Action**: Study Section 179/MACRS with fresh mind (HIGH PRIORITY GAP still exists)
@@ -870,10 +870,10 @@ This single document tracks ALL your CFP exam preparation progress, including:
       4. **Became worthless** during the tax year
       5. **Previously included in income** OR basis in the debt
     - **The Contingent Repayment Problem**:
-      - "Pay me back IF business succeeds" = NOT legal obligation ‚ùå
-      - "Pay me back IF I get inheritance" = NOT legal obligation ‚ùå
+      - "Pay me back IF business succeeds" = NOT legal obligation ‚ù?
+      - "Pay me back IF I get inheritance" = NOT legal obligation ‚ù?
       - IRS views contingent repayment as part gift, part loan
-      - If business fails ‚Üí Borrower had NO obligation ‚Üí NOT deductible
+      - If business fails ‚Ü?Borrower had NO obligation ‚Ü?NOT deductible
     - **The Family Loan Problem**:
       - IRS presumes family loans are GIFTS (not debts) unless proven
       - Must PROVE with:
@@ -882,35 +882,35 @@ This single document tracks ALL your CFP exam preparation progress, including:
         - Repayment schedule
         - Collateral or security (if applicable)
         - Actual efforts to collect
-      - No written agreement + family relationship = presumed gift ‚ùå
+      - No written agreement + family relationship = presumed gift ‚ù?
     - **Example - Mother-Daughter Loan** (2025-11-02):
       - $50,000 loan for business, contingent on business succeeding
       - FAILS "Legal Obligation" test (contingent repayment)
       - If business fails, daughter had NO duty to repay
-      - NOT deductible if becomes worthless ‚ùå
+      - NOT deductible if becomes worthless ‚ù?
     - **Example - Friend Loan with Written Agreement** (2025-11-02):
       - $20,000 for investment, written agreement + interest charged
       - PASSES all tests:
-        - Written agreement = bona fide debt ‚úì
-        - Interest charged = economic substance (not gift) ‚úì
-        - Unconditional repayment = legal obligation ‚úì
-      - If worthless ‚Üí Deductible as short-term capital loss ($3K/year limit) ‚úì
+        - Written agreement = bona fide debt ‚ú?
+        - Interest charged = economic substance (not gift) ‚ú?
+        - Unconditional repayment = legal obligation ‚ú?
+      - If worthless ‚Ü?Deductible as short-term capital loss ($3K/year limit) ‚ú?
     - **Tax Treatment if Deductible**:
-      - Non-business bad debt ‚Üí SHORT-TERM CAPITAL LOSS (regardless of how long held)
+      - Non-business bad debt ‚Ü?SHORT-TERM CAPITAL LOSS (regardless of how long held)
       - Limited to $3,000/year against ordinary income
       - Excess carries forward indefinitely
-      - Example: $20K bad debt ‚Üí Year 1: -$3K, Year 2: -$3K, etc.
+      - Example: $20K bad debt ‚Ü?Year 1: -$3K, Year 2: -$3K, etc.
     - **Memory System**:
       - "DEBT = Documented, Economic substance, Binding obligation, True expectation"
       - "Family Loans Need WRITE Terms": Written, Reasonable rate, Independent terms, Timeline, Enforcement
       - "Contingent = Gift-scent": If repayment is contingent, IRS smells a gift
-    - Student initially selected contingent mother-daughter loan ‚úì
-    - Now understands: Contingent repayment = NOT deductible ‚úì
+    - Student initially selected contingent mother-daughter loan ‚ú?
+    - Now understands: Contingent repayment = NOT deductible ‚ú?
   - **Tax credits vs tax deductions** (2025-10-19) - MASTERED:
     - Tax credit = dollar-for-dollar reduction ($355 credit = $355 savings)
     - Tax deduction = reduces taxable income (value √ó marginal rate)
     - $1,000 deduction in 32% bracket = only $320 savings
-    - Credits ALWAYS beat equal-dollar deductions ‚úì
+    - Credits ALWAYS beat equal-dollar deductions ‚ú?
   - **Child support not deductible** (2025-10-19) - tax-neutral
   - **Capital Loss Carryover** (2025-10-25) - MASTERED:
     - Short-term capital loss can offset ANY capital gain (ST or LT)
@@ -919,10 +919,10 @@ This single document tracks ALL your CFP exam preparation progress, including:
       - Market discount on bonds (buy at discount, hold to par) = **ordinary income** (NOT capital gain)
       - OID on zero-coupon bonds (held to maturity) = **ordinary income** (NOT capital gain)
       - Annuity gains = **ordinary income** (NOT capital gain)
-      - Municipal bond sold at premium = **CAPITAL GAIN** (taxable!) ‚úì
+      - Municipal bond sold at premium = **CAPITAL GAIN** (taxable!) ‚ú?
     - **Only capital gains can offset capital loss carryover**
-    - Student's excellent reasoning: "B definitely gives you more" ‚úì
-    - Perfect on practice problem ‚úì
+    - Student's excellent reasoning: "B definitely gives you more" ‚ú?
+    - Perfect on practice problem ‚ú?
   - **Capital losses** (2025-10-19): Offset up to $3,000 ordinary income/year
   - **In slides**: Pages 60-90 (Deductions FOR/FROM AGI, Itemized, Pass-through 199A)
 
@@ -930,36 +930,36 @@ This single document tracks ALL your CFP exam preparation progress, including:
   - Passive activity losses: $25K exception, AGI phase-outs
   - **Vacation Rental Expense Allocation (IRC ¬ß280A)** (2025-11-02) - MASTERED:
     - **Classification Test** (determines if property qualifies as rental):
-      - Rented ‚â• 15 days AND Personal use ‚â§ 14 days OR ‚â§ 10% of rental days ‚Üí **Rental Property**
+      - Rented ‚â?15 days AND Personal use ‚â?14 days OR ‚â?10% of rental days ‚Ü?**Rental Property**
       - Can deduct expenses (subject to allocation formula)
     - **Expense Allocation Formula**:
       - Deductible % = Rental Days √∑ (Rental Days + Personal Days)
       - **CRITICAL**: Vacant days NOT included in denominator (not personal use!)
     - **Brenda's Example** (2025-11-02):
       - 355 rental days, 10 personal days, $5,000 expenses
-      - Classification: 10 days < 14 AND < 35.5 (10% √ó 355) ‚Üí Qualifies as rental ‚úì
+      - Classification: 10 days < 14 AND < 35.5 (10% √ó 355) ‚Ü?Qualifies as rental ‚ú?
       - Deductible %: 355 √∑ (355 + 10) = 97.26%
-      - Deduction: $5,000 √ó 97.26% = $4,863 ‚úì
+      - Deduction: $5,000 √ó 97.26% = $4,863 ‚ú?
     - **Student's BRILLIANT Question** (2025-11-02):
       - "If 10 days were vacant (not personal use), could deduct full $5,000?"
       - **Answer: YES!** If vacant instead of personal use:
         - Personal days = 0, Vacant days = 10
         - Deductible % = 355 √∑ (355 + 0) = 100%
-        - Full $5,000 deduction ‚úì
+        - Full $5,000 deduction ‚ú?
       - **Why**: Vacant days = property held for rental but temporarily unoccupied
-        - No personal benefit from vacant days ‚Üí no reduction in deduction
+        - No personal benefit from vacant days ‚Ü?no reduction in deduction
         - Like landlord with apartment vacant between tenants
     - **The Key Distinction**: USED days matter, VACANT days don't
       - Formula only includes days actually USED (rental + personal)
       - Vacant/unoccupied days ignored (not personal use)
       - Only personal use reduces deduction
     - **Memory System**: "USED Days Matter, VACANT Days Don't"
-    - Student demonstrated exceptional critical thinking identifying vacant vs personal use distinction ‚úì
+    - Student demonstrated exceptional critical thinking identifying vacant vs personal use distinction ‚ú?
   - **1031 Like-Kind Exchanges** - EXCELLENT:
-    - Boot = Cash received + Debt relief not replaced ‚úì
-    - Balanced equation: What you give up = What you get ‚úì
-    - Basis formula: Old basis - Boot + Gain recognized ‚úì
-    - Perfect on practice problem ($300K boot) ‚úì
+    - Boot = Cash received + Debt relief not replaced ‚ú?
+    - Balanced equation: What you give up = What you get ‚ú?
+    - Basis formula: Old basis - Boot + Gain recognized ‚ú?
+    - Perfect on practice problem ($300K boot) ‚ú?
   - **Section 1245 vs Section 1250 Depreciation Recapture** (2025-10-28) - MASTERED:
     - **CRITICAL DISTINCTION**:
       - **Section 1245** (Equipment, Machinery, Furniture):
@@ -978,13 +978,13 @@ This single document tracks ALL your CFP exam preparation progress, including:
     - **Installment Sale Mechanics**:
       - **Gross profit %** = (Sale price - Adjusted basis) √∑ Contract price
       - Apply % to each payment to determine gain recognized
-      - Example: $250K sale, $30K basis ‚Üí $220K gain √∑ $250K = 88% gross profit %
-      - 20% down payment ($50K) √ó 88% = $44K gain in Year 1 ‚úì
+      - Example: $250K sale, $30K basis ‚Ü?$220K gain √∑ $250K = 88% gross profit %
+      - 20% down payment ($50K) √ó 88% = $44K gain in Year 1 ‚ú?
     - **Section 1250 composition**:
       - Depreciation recapture portion taxed at 25%
       - Appreciation portion taxed at 15-20%
       - Both spread over installment payments
-    - Student validated in frustration about tax complexity ‚úì
+    - Student validated in frustration about tax complexity ‚ú?
   - **In slides**: Pages 10-40 (Basis, Capital gains, Section 1244, Section 1202, Nontaxable exchanges, Depreciation recapture)
 
 - [x] **E.43 Charitable contributions** (2025-10-11, 2025-10-19, 2025-11-02) - **High confidence**
@@ -992,15 +992,15 @@ This single document tracks ALL your CFP exam preparation progress, including:
   - **Related use rule for tangible personal property** (2025-10-19) - MASTERED:
     - Charity KEEPS/USES = deduct Fair Market Value
     - Charity SELLS = deduct LESSER of (basis OR FMV)
-    - Antique vase problem: Charity sold it = deduct $1,700 basis only ‚úì
-    - Prevents deducting gains charity actually received ‚úì
+    - Antique vase problem: Charity sold it = deduct $1,700 basis only ‚ú?
+    - Prevents deducting gains charity actually received ‚ú?
   - **Pooled Income Fund** (2025-11-02) - MASTERED:
     - **What it IS**:
       - Charity creates and maintains fund
       - Pools commingled donations from many donors
       - Donors get income for life (proportional to contribution)
       - Remainder goes to charity (irrevocably earmarked)
-    - **CRITICAL RESTRICTION: Cannot invest in tax-free municipal bonds** ‚ùå
+    - **CRITICAL RESTRICTION: Cannot invest in tax-free municipal bonds** ‚ù?
       - IRS prohibition on tax-exempt securities
       - Prevents "double tax benefit" (charitable deduction + tax-free income)
       - Donor already got charitable deduction (benefit #1)
@@ -1021,7 +1021,7 @@ This single document tracks ALL your CFP exam preparation progress, including:
   - **Reportable income**: Dividends, interest, rental income, capital gains from sales
   - **NOT income**: Debt repayments, inherited principal
   - **Filing threshold**: $600 or more annual income
-  - **Estate income tax problem**: Dividends from stocks must be reported ‚úì
+  - **Estate income tax problem**: Dividends from stocks must be reported ‚ú?
   - **In slides**: Brief mention in context
 
 ### Not Yet Studied (1/8 topics)
@@ -1029,15 +1029,15 @@ This single document tracks ALL your CFP exam preparation progress, including:
 - [ ] **E.42** Special circumstances
   - **In slides**: Various special situations (AMT, kiddie tax, etc.)
 
-**Priority**: **TAX PLANNING DOMAIN COMPLETE!** ‚úÖ Only E.42 remaining (low priority)
+**Priority**: **TAX PLANNING DOMAIN COMPLETE!** ‚ú?Only E.42 remaining (low priority)
 
 ---
 
-## F. Retirement Savings and Income Planning (18%) ‚≠ê HIGHEST WEIGHT
+## F. Retirement Savings and Income Planning (18%) ‚≠?HIGHEST WEIGHT
 
 **Slides**: Retirement (182 pages - MOST COMPREHENSIVE)
 
-### ‚úÖ Mastered Topics (9/10)
+### ‚ú?Mastered Topics (9/10)
 
 - [x] **F.45 Social Security and Medicare** - **High confidence**
 
@@ -1052,7 +1052,7 @@ This single document tracks ALL your CFP exam preparation progress, including:
       - Own benefit: 5/9 of 1% per month (6.67% for 12 months early)
       - Spousal benefit: 25/36 of 1% per month (8.33% for 12 months early)
     - **Calculation**: Own reduced benefit + reduced spousal supplement
-    - Example: PIA $1,500, spouse PIA $3,600 ‚Üí Total $1,680 ($1,400 own + $275 spousal)
+    - Example: PIA $1,500, spouse PIA $3,600 ‚Ü?Total $1,680 ($1,400 own + $275 spousal)
   - **Fully Insured vs Currently Insured Status** (2025-10-29) - MASTERED:
     - **Fully Insured (MAIN status)**:
       - Formula: Credits needed = Age - 22 (minimum 6, maximum 40)
@@ -1067,16 +1067,16 @@ This single document tracks ALL your CFP exam preparation progress, including:
     - **Work history gaps**:
       - Hurt "currently insured" (recent work requirement)
       - May not hurt "fully insured" (lifetime credits count)
-      - Example: 4 years work, 4 years grad school, 1 year work = 16 total credits (fully ‚úì) but only 4 recent (currently ‚úó)
+      - Example: 4 years work, 4 years grad school, 1 year work = 16 total credits (fully ‚ú? but only 4 recent (currently ‚ú?
     - **Why two statuses exist**: Currently insured protects young workers who die before earning enough lifetime credits
-    - Student noted: "This is tricky" - accurate assessment! ‚úì
+    - Student noted: "This is tricky" - accurate assessment! ‚ú?
   - **In slides**: Pages 165-175
   - ‚ö†Ô∏è **Minor gap**: Early filing reduction % (thinks 5%, actually 5/9 then 5/12) - being resolved
 
   **Medicare** (comprehensive deep dive 2025-10-18):
   - All Parts A/B/C/D details mastered
   - MA vs Medigap tradeoffs understood
-  - Enrollment periods, commissions, coverage limits ‚úì
+  - Enrollment periods, commissions, coverage limits ‚ú?
   - **Gap resolved** from Medium to HIGH confidence
 
 - [x] **F.47 Types of retirement plans** (2025-10-13, 2025-10-23, 2025-11-01) - **High confidence**
@@ -1101,8 +1101,8 @@ This single document tracks ALL your CFP exam preparation progress, including:
       - Example targeting $50K/year at age 65:
         - Age 30 (35 years left): $5,000/year contribution (5% of salary)
         - Age 45 (20 years left): $15,000/year contribution (15% of salary)
-        - Age 55 (10 years left): $40,000/year contribution (40% of salary) ‚úÖ
-      - Less time to accumulate ‚Üí need larger contributions
+        - Age 55 (10 years left): $40,000/year contribution (40% of salary) ‚ú?
+      - Less time to accumulate ‚Ü?need larger contributions
     - **Perfect Client Profile**:
       - Small business owner age 50-62
       - High income, wants to maximize own contributions
@@ -1114,12 +1114,12 @@ This single document tracks ALL your CFP exam preparation progress, including:
       - Young executives (age-weighting works against them)
       - Companies wanting to favor rank-and-file workers
     - **Memory Aid**: "Target Benefit = Old Guys Win"
-    - Student initially thought it favored young employees (common trap!) ‚úì
-    - Now understands age-weighting concept perfectly ‚úì
+    - Student initially thought it favored young employees (common trap!) ‚ú?
+    - Now understands age-weighting concept perfectly ‚ú?
   - **Retirement Plan Selection Patterns** (2025-10-23) - MASTERED:
-    - **"Flexible contributions"** ‚Üí Rules out DB plans (actuarially required)
-    - **"Employee retention"** ‚Üí Need vesting schedules (rules out SEP, SIMPLE)
-    - **"Maximize owner contributions"** ‚Üí DB plans or high DC limits
+    - **"Flexible contributions"** ‚Ü?Rules out DB plans (actuarially required)
+    - **"Employee retention"** ‚Ü?Need vesting schedules (rules out SEP, SIMPLE)
+    - **"Maximize owner contributions"** ‚Ü?DB plans or high DC limits
     - Safe Harbor 401(k) = base 3% + discretionary profit-sharing (true flexibility)
   - **In slides**: Pages 10-40 (DB vs DC, Pension vs Profit-sharing, All plan types)
 
@@ -1133,11 +1133,11 @@ This single document tracks ALL your CFP exam preparation progress, including:
       - **S**IMPLE IRA (designed to be SIMPLE, fixed 2% or 3% match formulas)
       - **E**SOP (stock ownership plan, not retirement income replacement)
     - **Plans That CAN Integrate**:
-      - ‚úÖ Profit-sharing plans (the correct answer!)
-      - ‚úÖ Traditional pension plans (defined benefit)
-      - ‚úÖ Money purchase plans
-      - ‚úÖ 401(k) plans
-      - ‚úÖ Target benefit plans
+      - ‚ú?Profit-sharing plans (the correct answer!)
+      - ‚ú?Traditional pension plans (defined benefit)
+      - ‚ú?Money purchase plans
+      - ‚ú?401(k) plans
+      - ‚ú?Target benefit plans
     - **Why These Three Cannot**:
       - **SIMPLE**: Name says it - Keep it SIMPLE, no complexity allowed
         - Fixed formulas only (2% nonelective OR dollar-for-dollar up to 3% match)
@@ -1155,18 +1155,18 @@ This single document tracks ALL your CFP exam preparation progress, including:
       - "SSE Cannot Integrate" (SARSEP, SIMPLE, ESOP)
       - "SIMPLE Stays SIMPLE" (no integration complexity)
       - "Everything else CAN integrate"
-    - Student initially selected SIMPLE IRA thinking it would integrate ‚úì
-    - Now understands: SSE = the three plans that cannot integrate ‚úì
+    - Student initially selected SIMPLE IRA thinking it would integrate ‚ú?
+    - Now understands: SSE = the three plans that cannot integrate ‚ú?
   - **Nondiscrimination Coverage Testing (IRC ¬ß410(b))** (2025-10-29) - MASTERED:
     - **Purpose**: Ensure plans don't only benefit highly paid employees
     - **Two tests available**:
-      - **Ratio Percentage Test**: (% NHCEs benefitting) √∑ (% HCEs benefitting) ‚â• 70%
-        - Example: 90% HCEs participate ‚Üí need 63% NHCEs minimum (70% √ó 90%)
-      - **Average Benefits Test**: (Avg benefit % NHCEs) √∑ (Avg benefit % HCEs) ‚â• 70%
-        - Example: HCEs get 12% of comp ‚Üí NHCEs need 8.4% minimum (70% √ó 12%)
+      - **Ratio Percentage Test**: (% NHCEs benefitting) √∑ (% HCEs benefitting) ‚â?70%
+        - Example: 90% HCEs participate ‚Ü?need 63% NHCEs minimum (70% √ó 90%)
+      - **Average Benefits Test**: (Avg benefit % NHCEs) √∑ (Avg benefit % HCEs) ‚â?70%
+        - Example: HCEs get 12% of comp ‚Ü?NHCEs need 8.4% minimum (70% √ó 12%)
     - **CRITICAL DIRECTION**: Protected group (NHCEs) must be 70% of advantaged group (HCEs)
       - **NEVER backwards!** Not HCE √∑ NHCE (would protect bosses, not workers)
-      - Formula pattern: NHCE amount √∑ HCE amount ‚â• 70%
+      - Formula pattern: NHCE amount √∑ HCE amount ‚â?70%
     - **HCEs vs Key Employees** (different definitions):
       - **HCEs** (for coverage testing): Earned >$155K (2024) OR >5% owner
       - **Key Employees** (for top-heavy testing): Officers >$220K, >5% owners, >1% owners earning >$150K
@@ -1196,18 +1196,18 @@ This single document tracks ALL your CFP exam preparation progress, including:
     - SIMPLE IRA: 100% immediate vesting REQUIRED (no retention)
     - 401(k) Safe Harbor: Safe harbor immediate, but profit-sharing can vest (2-6 yrs)
     - Cash Balance: Can use 3-yr cliff or 6-yr graded vesting
-    - **Key pattern**: "Employee retention" objective ‚Üí need vesting schedules
+    - **Key pattern**: "Employee retention" objective ‚Ü?need vesting schedules
   - **In slides**: Pages 20-60 (Qualification, Coverage tests, Vesting, Top-heavy, ADP/ACP)
 
 - [x] **F.51 Distribution rules** (2025-10-17, 2025-10-23, 2025-11-01) - **High confidence**
   - **RMD rules**: Age 73 (born 1951-1959), 75 (born 1960+)
   - RMD calculation: Balance (12/31 prior) √∑ Life expectancy (age 12/31 current)
-  - Perfect calculation: $500K √∑ 26.5 = $18,868 ‚úì
+  - Perfect calculation: $500K √∑ 26.5 = $18,868 ‚ú?
   - April 1 delay for first RMD only
   - 25% penalty (10% if corrected)
   - Roth IRAs: No RMD during lifetime
   - **Early Withdrawal Penalty Exceptions** (2025-10-23, 2025-11-02) - MASTERED:
-    - **CRITICAL #1 EXAM TRAP: HARDSHIP ‚â† EXCEPTION!** (2025-11-02):
+    - **CRITICAL #1 EXAM TRAP: HARDSHIP ‚â?EXCEPTION!** (2025-11-02):
       - **Most common mistake**: Thinking hardship withdrawals avoid 10% penalty
       - **Reality**: Hardship withdrawals STILL subject to 10% penalty (if under 59¬Ω)!
       - You can ACCESS the money (hardship allows withdrawal)
@@ -1221,8 +1221,8 @@ This single document tracks ALL your CFP exam preparation progress, including:
     - **Rule of 55 CRITICAL Requirement** (2025-10-23, 2025-11-02):
       - Must SEPARATE from service (quit/fired) at age 55 or later
       - **In-service = Rule doesn't apply!** (Still working = no exception yet)
-      - Example: Age 55, in-service hardship = PENALTY applies ‚ùå
-      - Example: Age 55, QUIT job, take distribution = NO penalty ‚úì
+      - Example: Age 55, in-service hardship = PENALTY applies ‚ù?
+      - Example: Age 55, QUIT job, take distribution = NO penalty ‚ú?
       - **Memory**: "Rule of 55: You must QUIT (separate), not just hit 55"
       - **Memory**: "In-Service = In-Penalty" (if under 59¬Ω and not disabled)
     - **Rule of 55**: Age 55+ separation from employer (401(k) only, NOT IRAs)
@@ -1243,7 +1243,7 @@ This single document tracks ALL your CFP exam preparation progress, including:
       - D = Disability
       - E = Excessive medical (>7.5% AGI)
       - S = SEPP (72(t) substantially equal payments)
-    - Perfect on practice problems (Rule of 55, QDRO, IRA education exception) ‚úì
+    - Perfect on practice problems (Rule of 55, QDRO, IRA education exception) ‚ú?
   - **401(k) Hardship Withdrawals vs In-Service Rollovers** (2025-11-01) - MASTERED:
     - **Hardship Withdrawal Requirements**:
       - Must prove immediate and heavy financial need
@@ -1259,9 +1259,9 @@ This single document tracks ALL your CFP exam preparation progress, including:
       - **CRITICAL RESTRICTION**: In-service rollovers generally NOT allowed before age 59¬Ω
       - Can't rollover WHILE still employed at that company (except specific circumstances)
       - **Exception**: Some plans allow in-service rollovers after age 59¬Ω
-      - **Result**: For Joe (age 48), rollover NOT an option ‚Üí Hardship withdrawal is only choice
+      - **Result**: For Joe (age 48), rollover NOT an option ‚Ü?Hardship withdrawal is only choice
     - **Why This Is Important**:
-      - Student demonstrated EXCELLENT professional skepticism ‚úì
+      - Student demonstrated EXCELLENT professional skepticism ‚ú?
       - Identified potential alternative solution (rollover strategy)
       - Understanding restriction helps explain why hardship rules exist
       - Real-world CFP advice: Build emergency fund to AVOID needing hardship withdrawals!
@@ -1274,8 +1274,8 @@ This single document tracks ALL your CFP exam preparation progress, including:
       - Can't do regular withdrawal (plan doesn't allow in-service before 59¬Ω)
       - Can't rollover to IRA (in-service rollover restricted before 59¬Ω)
       - **ONLY option**: Hardship withdrawal (prevents foreclosure = qualifies)
-      - Takes withdrawal, pays tax + 10% penalty, keeps house ‚úì
-    - Student challenged instructor twice with excellent questions - shows deep thinking! ‚úì
+      - Takes withdrawal, pays tax + 10% penalty, keeps house ‚ú?
+    - Student challenged instructor twice with excellent questions - shows deep thinking! ‚ú?
   - **In slides**: Pages 80-100
   - ‚ö†Ô∏è **Remaining gap**: 72(t) SEPP calculations not yet covered
 
@@ -1291,7 +1291,7 @@ This single document tracks ALL your CFP exam preparation progress, including:
   - **Buy-Sell Agreement Components** (2025-10-23) - MASTERED:
     - **MUST HAVE - Core elements**:
       - Triggering events (death, disability, retirement, dispute, voluntary sale)
-      - **Valuation method** (prevents disputes over price) ‚Üê CRUCIAL
+      - **Valuation method** (prevents disputes over price) ‚Ü?CRUCIAL
         - Fixed price (updated annually)
         - Formula-based (e.g., 5x EBITDA, book value multiple)
         - Independent appraisal
@@ -1301,21 +1301,21 @@ This single document tracks ALL your CFP exam preparation progress, including:
       - First right of refusal provisions
       - Transfer restrictions
     - **SHOULD HAVE - Family protection**:
-      - **Trust establishment** (manages transaction, protects family) ‚Üê CRUCIAL
+      - **Trust establishment** (manages transaction, protects family) ‚Ü?CRUCIAL
         - Trust owns shares or receives insurance proceeds
         - Professional trustee handles buyout
         - Removes emotion from transaction
         - Clear distribution plan for family
     - **NOT IN BUY-SELL AGREEMENT** (common trap):
-      - ‚ùå Roles and responsibilities (goes in operating agreement)
-      - ‚ùå Job descriptions (employment contracts)
-      - ‚ùå Management succession plan (separate document)
-      - ‚ùå CEO transition timeline (succession roadmap)
+      - ‚ù?Roles and responsibilities (goes in operating agreement)
+      - ‚ù?Job descriptions (employment contracts)
+      - ‚ù?Management succession plan (separate document)
+      - ‚ù?CEO transition timeline (succession roadmap)
       - **Key distinction**: Buy-sell = OWNERSHIP transfer, NOT management structure
     - **AVOID**:
-      - ‚ùå Asset exclusions (creates ambiguity and future disputes)
+      - ‚ù?Asset exclusions (creates ambiguity and future disputes)
       - Keep agreement comprehensive and clear
-    - Perfect on practice problem (valuation + trust, not roles) ‚úì
+    - Perfect on practice problem (valuation + trust, not roles) ‚ú?
   - **Business structures for succession**:
     - When family involved: FLP, voting/non-voting stock, GRAT
     - When family NOT involved: Buy-sell to key employee or third party
@@ -1324,7 +1324,7 @@ This single document tracks ALL your CFP exam preparation progress, including:
   - **Practical application**: Match tools to client situation (family capability/willingness)
   - **In slides**: Pages 175-182
 
-### ‚úÖ Mastered Topics (10/10) - DOMAIN COMPLETE ‚úÖ
+### ‚ú?Mastered Topics (10/10) - DOMAIN COMPLETE ‚ú?
 
 - [x] **F.46 Eldercare and special needs planning** (2025-10-23) - **Medium-High confidence**
   - **Medicaid Waiver Programs** (2025-10-23) - MASTERED:
@@ -1336,15 +1336,15 @@ This single document tracks ALL your CFP exam preparation progress, including:
   - **In slides**: Brief mention in retirement section
   - **Note**: Learned through practical problem (Judy's father with dementia)
 
-- [x] **F.49 Non-qualified plan rules** (2025-10-23, 2025-10-31) - **Medium-High confidence** ‚≠ê (PARTIAL)
+- [x] **F.49 Non-qualified plan rules** (2025-10-23, 2025-10-31) - **Medium-High confidence** ‚≠?(PARTIAL)
   - **Traditional IRA Deductibility Phase-Outs** (2025-10-23) - MASTERED:
     - **Three different phase-out ranges** (critical to memorize):
       - **Active Participant - Single/HOH**: $77K - $87K (2024)
       - **Active Participant - MFJ**: $123K - $143K (2024)
-      - **Non-Active Participant (spouse is active) - MFJ**: $230K - $240K (2024) ‚Üê Much higher!
+      - **Non-Active Participant (spouse is active) - MFJ**: $230K - $240K (2024) ‚Ü?Much higher!
     - **Catch-up contributions**: Age 50+ only ($1,000 extra = $8,000 total)
     - **Key pattern**: Non-active participant spouse gets much higher phase-out range
-    - Perfect on practice problem (Sarah $225K MAGI, full $7K deduction) ‚úì
+    - Perfect on practice problem (Sarah $225K MAGI, full $7K deduction) ‚ú?
   - **Rabbi Trust vs Secular Trust** (2025-10-31) - MASTERED:
     - **Rabbi Trust**:
       - Employer's creditors CAN reach funds (risky for employee)
@@ -1360,7 +1360,7 @@ This single document tracks ALL your CFP exam preparation progress, including:
   - **Still need to cover**: Roth IRA phaseouts, ordering rules, SEP, SIMPLE, ISOs vs NQSOs
   - **Priority**: Continue Day 3-4 study - IRA deductibility and rabbi trusts covered
 
-**Priority**: **RETIREMENT DOMAIN 100% COMPLETE!** ‚úÖ (18% of exam - highest weighted domain mastered!)
+**Priority**: **RETIREMENT DOMAIN 100% COMPLETE!** ‚ú?(18% of exam - highest weighted domain mastered!)
 
 ---
 
@@ -1368,7 +1368,7 @@ This single document tracks ALL your CFP exam preparation progress, including:
 
 **Slides**: Estate (200 pages comprehensive)
 
-### ‚úÖ Mastered Topics (9/14)
+### ‚ú?Mastered Topics (9/14)
 
 - [x] **G.54 Property titling** (2025-10-11, 2025-10-19, 2025-11-02) - **High confidence**
   - Probate vs non-probate assets
@@ -1378,12 +1378,12 @@ This single document tracks ALL your CFP exam preparation progress, including:
   - **JTWROS vs Tenancy in Common** (2025-11-02) - MASTERED:
     - **#1 Rule of JTWROS**: CANNOT pass by will (bypasses will entirely!)
       - Passes by **operation of law** (automatic, outside probate)
-      - When joint tenant dies ‚Üí Share evaporates, survivor owns 100%
+      - When joint tenant dies ‚Ü?Share evaporates, survivor owns 100%
       - Will cannot override this (JTWROS trumps will)
     - **Why Other Statements Are TRUE**:
-      - 2+ tenants, may/may not be related ‚úÖ (same as TIC)
-      - **Ownership must be equal** ‚úÖ (This IS required for JTWROS!)
-      - Passes to surviving owners ‚úÖ (Definition of survivorship)
+      - 2+ tenants, may/may not be related ‚ú?(same as TIC)
+      - **Ownership must be equal** ‚ú?(This IS required for JTWROS!)
+      - Passes to surviving owners ‚ú?(Definition of survivorship)
     - **Comparison JTWROS vs TIC**:
       - Ownership %: JTWROS = MUST be EQUAL | TIC = Can be unequal (40/60, 70/30)
       - Pass by will?: JTWROS = NO (bypasses will!) | TIC = YES (will controls)
@@ -1398,8 +1398,8 @@ This single document tracks ALL your CFP exam preparation progress, including:
       - "JTWROS = 3 Magic Words: EQUAL, AUTOMATIC, WILL-PROOF"
       - "Your Will is Powerless Against JTWROS"
       - "Equal Shares, Survivor Cares, Will Don't Matter"
-    - Student thought "ownership must be equal" was wrong answer ‚úì
-    - Now understands: JTWROS CANNOT pass by will (that's the false statement) ‚úì
+    - Student thought "ownership must be equal" was wrong answer ‚ú?
+    - Now understands: JTWROS CANNOT pass by will (that's the false statement) ‚ú?
   - **Ancillary Probate** (2025-11-02) - MASTERED:
     - **The Problem**: Out-of-state real property creates **TWO probate proceedings**
       - **Primary probate**: State where decedent lived (domicile)
@@ -1421,14 +1421,14 @@ This single document tracks ALL your CFP exam preparation progress, including:
     - **Memory System**:
       - "OUT-OF-STATE = OUT-OF-LUCK (without planning)"
       - "ANCILLARY = ANOTHER STATE = ANOTHER PROBATE"
-      - "The THREE A's": ANCILLARY probate ‚Üí Lifetime transfer
-    - Student initially didn't select lifetime transfer recommendation ‚úì
-    - Now understands: Out-of-state property = ancillary probate problem ‚úì
+      - "The THREE A's": ANCILLARY probate ‚Ü?Lifetime transfer
+    - Student initially didn't select lifetime transfer recommendation ‚ú?
+    - Now understands: Out-of-state property = ancillary probate problem ‚ú?
   - **JTWROS Estate Tax Treatment** (2025-10-19) - MASTERED:
-    - Included in gross estate for estate tax (IRC ¬ß 2040) ‚úì
+    - Included in gross estate for estate tax (IRC ¬ß 2040) ‚ú?
     - 50% included for spouses, 100% for non-spouses (unless prove contribution)
-    - Avoids PROBATE but NOT estate tax ‚úì
-    - Common trap: "avoids probate" ‚â† "avoids estate tax"
+    - Avoids PROBATE but NOT estate tax ‚ú?
+    - Common trap: "avoids probate" ‚â?"avoids estate tax"
   - **Step-Up Basis Rules**:
     - JTWROS: 50% step-up (spouses in common law states)
     - Community Property: 100% step-up (both halves)
@@ -1454,7 +1454,7 @@ This single document tracks ALL your CFP exam preparation progress, including:
       - **QPRT**: Transfer to trust = taxable gift of remainder interest
       - **FLP with gifts**: Only $18K annual exclusion applies, excess is taxable gift
         - Example: $50K gift - $18K exclusion = $32K taxable gift
-        - With exhausted credit ‚Üí immediate gift tax liability
+        - With exhausted credit ‚Ü?immediate gift tax liability
       - **JTWROS**: Adding joint tenant = gift of 50% ownership
     - **Key distinction**: SCIN is ONLY method that's a SALE instead of GIFT
     - **Memory aid**: "SCIN = SALE" vs "Everything else = GIFT", "SCIN keeps it CLEAN"
@@ -1476,7 +1476,7 @@ This single document tracks ALL your CFP exam preparation progress, including:
     - **Portability (DSUE - Deceased Spousal Unused Exclusion)**:
       - Surviving spouse can "inherit" deceased spouse's unused exemption
       - Must file Form 706 within 9 months (even if no tax due!)
-      - Example: Husband dies with $5M unused ‚Üí Wife gets $5M DSUE
+      - Example: Husband dies with $5M unused ‚Ü?Wife gets $5M DSUE
     - **BUT Portability Has 3 MAJOR Limitations**:
       1. **NO GROWTH PROTECTION** (BIGGEST PROBLEM!):
          - Credit Shelter Trust: Growth protected (tax-free forever)
@@ -1502,8 +1502,8 @@ This single document tracks ALL your CFP exam preparation progress, including:
       - "OVER to spouse = UNDER-used exemption"
       - "Portability transfers DOLLARS, Trust protects GROWTH"
       - "Portability = Portable Exemption, NOT Portable Growth Protection"
-    - Student challenged overqualification concept with portability question ‚úì
-    - Now understands: Portability doesn't protect growth, overqualification still wastes benefit ‚úì
+    - Student challenged overqualification concept with portability question ‚ú?
+    - Now understands: Portability doesn't protect growth, overqualification still wastes benefit ‚ú?
   - **Annual Exclusion Gifting** - MASTERED:
     - Per donor, per donee, per year
     - 2023: $17,000, 2024: $18,000, 2025: $19,000 (projected)
@@ -1516,28 +1516,28 @@ This single document tracks ALL your CFP exam preparation progress, including:
     - Taxable gift = FMV - Annual exclusion ($18K)
     - Lifetime exclusion 2024: $13,610,000
     - Applicable credit offsets tax on gifts below lifetime exclusion
-    - Example: $5,130,000 gift - $18K = $5,112,000 taxable ‚Üí no tax due (covered by credit)
+    - Example: $5,130,000 gift - $18K = $5,112,000 taxable ‚Ü?no tax due (covered by credit)
   - **Loss Property Gifts and Double-Basis Rule** (2025-11-01) - MASTERED:
     - **Loss property**: FMV < Donor's basis (property went down in value)
     - **Gift tax can ONLY be added to basis for APPRECIATED property**
-      - Appreciated (FMV > Basis): Gift tax CAN be allocated to increase basis ‚úì
-      - Loss property (FMV < Basis): Gift tax CANNOT be allocated ‚ùå
+      - Appreciated (FMV > Basis): Gift tax CAN be allocated to increase basis ‚ú?
+      - Loss property (FMV < Basis): Gift tax CANNOT be allocated ‚ù?
     - **Double-Basis Rule for Loss Property**:
       - Donee receives TWO different bases:
         - **Gain basis**: Donor's original basis (for calculating gains)
         - **Loss basis**: FMV at time of gift (for calculating losses)
       - **Sale scenarios**:
-        - Sell above donor's basis ‚Üí Use gain basis (donor's original basis)
-        - Sell below FMV at gift ‚Üí Use loss basis (FMV at gift)
-        - **Sell between the two bases ‚Üí NO gain or loss** (the "dead zone")
+        - Sell above donor's basis ‚Ü?Use gain basis (donor's original basis)
+        - Sell below FMV at gift ‚Ü?Use loss basis (FMV at gift)
+        - **Sell between the two bases ‚Ü?NO gain or loss** (the "dead zone")
     - **Example**: Basis $6.8M, FMV $5.13M at gift
-      - Sell for $7M ‚Üí Gain = $200K (use $6.8M basis)
-      - Sell for $6.5M ‚Üí NO gain or loss (in dead zone)
-      - Sell for $5M ‚Üí Loss = $130K (use $5.13M basis)
+      - Sell for $7M ‚Ü?Gain = $200K (use $6.8M basis)
+      - Sell for $6.5M ‚Ü?NO gain or loss (in dead zone)
+      - Sell for $5M ‚Ü?Loss = $130K (use $5.13M basis)
     - **Memory Aid**: "FAB-L" (FMV for gift tax, Appreciated only for basis addition, Bases are double, Loss property has dead zone)
   - **Gross Estate Calculation** - MASTERED:
     - **3-Year Lookback Rule (IRC ¬ß2035)**:
-      - Life insurance transferred within 3 years of death ‚Üí included in estate
+      - Life insurance transferred within 3 years of death ‚Ü?included in estate
       - Prevents deathbed transfers to avoid estate tax
       - Must transfer >3 years before death for ILIT to work
       - If transfer <3 years: Death benefit included in gross estate
@@ -1590,8 +1590,8 @@ This single document tracks ALL your CFP exam preparation progress, including:
     - After term, residence passes to beneficiaries
     - Gift = FMV of home - PV of retained interest
     - **Maximum of TWO QPRTs** (principal residence + one other)
-    - **AFR effect**: Higher AFR ‚Üí Lower PV of retained interest
-    - **Term length effect**: Shorter term ‚Üí Higher gift (less retained interest)
+    - **AFR effect**: Higher AFR ‚Ü?Lower PV of retained interest
+    - **Term length effect**: Shorter term ‚Ü?Higher gift (less retained interest)
     - **Planning tradeoff**: Shorter term (safer, higher gift) vs Longer term (riskier, lower gift)
     - Must survive term or property comes back into estate
     - Gift occurs at CREATION, not termination
@@ -1617,7 +1617,7 @@ This single document tracks ALL your CFP exam preparation progress, including:
     - **3-year rule applies**: Must transfer >3 years before death
     - If <3 years: Death benefit included in gross estate anyway
   - **Key Framework**: "Who gets what" - income recipient vs remainder recipient
-  - **Memory Aid Created**: CRAT/CRUT ‚Üí Charity Remainder, GRAT/GRUT ‚Üí Grantor Retained
+  - **Memory Aid Created**: CRAT/CRUT ‚Ü?Charity Remainder, GRAT/GRUT ‚Ü?Grantor Retained
   - **CRT 4-Tier Taxation** (2025-10-21) - MASTERED:
     - **Not** a basis calculation like annuities!
     - **Tier 1: Ordinary Income** (worst first) - interest, non-qual dividends, rent, business income
@@ -1629,12 +1629,12 @@ This single document tracks ALL your CFP exam preparation progress, including:
   - **Irrevocable Trust Estate Tax & Income Tax** (2025-10-21) - MASTERED:
     - Creating irrevocable trust removes assets from grantor's estate (estate tax savings)
     - **DNI (Distributable Net Income) Rules**:
-      - Income distributed ‚Üí beneficiaries pay income tax
-      - Income retained ‚Üí trust pays income tax (at higher rates)
+      - Income distributed ‚Ü?beneficiaries pay income tax
+      - Income retained ‚Ü?trust pays income tax (at higher rates)
     - Trade-off: Estate tax savings vs. loss of step-up in basis
     - Property in irrevocable trust gets carryover basis, not step-up at death
   - **IRC ¬ß678 - Beneficiary as Owner for Tax Purposes** (2025-11-01) - MASTERED:
-    - **"Power = Ownership" Rule**: If beneficiary has power to withdraw trust assets but chooses not to ‚Üí treated as owner for income tax
+    - **"Power = Ownership" Rule**: If beneficiary has power to withdraw trust assets but chooses not to ‚Ü?treated as owner for income tax
     - **Who pays tax on trust income**:
       - **Beneficiary pays**: When beneficiary has withdrawal power (whether exercised or not)
       - **Trust pays**: When beneficiary has NO withdrawal power (trustee discretion only)
@@ -1646,7 +1646,7 @@ This single document tracks ALL your CFP exam preparation progress, including:
     - **Tax consequence when beneficiary doesn't revoke**:
       - Beneficiary has right to revoke at age 21-23 but chooses to let trust continue
       - Beneficiary pays tax on ALL trust income going forward (even though doesn't take distributions)
-      - Why? Has power to withdraw ‚Üí IRC ¬ß678 applies ‚Üí treated as owner
+      - Why? Has power to withdraw ‚Ü?IRC ¬ß678 applies ‚Ü?treated as owner
     - **Example**: Julie gets revocation right at 23, doesn't revoke, lets trust continue to 30
       - Julie pays income tax on trust earnings from age 23-30
       - Even though money stays in trust and Julie doesn't receive distributions
@@ -1655,8 +1655,8 @@ This single document tracks ALL your CFP exam preparation progress, including:
     - **Answer**: Life insurance cash value growth = TAX-DEFERRED (IRC ¬ß7702)
     - **Key Distinction**:
       - **¬ß2503(c) trust with stocks/bonds**: Generates dividends, interest, capital gains = LOTS of taxable income
-        - Beneficiary with withdrawal power ‚Üí pays tax on all that income
-      - **ILIT with life insurance**: Cash value grows tax-deferred ‚Üí minimal/zero taxable income
+        - Beneficiary with withdrawal power ‚Ü?pays tax on all that income
+      - **ILIT with life insurance**: Cash value grows tax-deferred ‚Ü?minimal/zero taxable income
         - Only taxable income = tiny interest on cash in trust account ($50-$500/year)
         - Trust pays small tax; beneficiaries not affected
     - **Why use Crummey powers in ILIT**:
@@ -1665,16 +1665,16 @@ This single document tracks ALL your CFP exam preparation progress, including:
       - Without Crummey: Gift of future interest, no annual exclusion
       - With Crummey: Gift of present interest, qualifies for $18K exclusion
     - **Crummey Letters**: Notify beneficiaries of 30-60 day withdrawal window
-      - Beneficiaries don't withdraw ‚Üí premium gets paid
+      - Beneficiaries don't withdraw ‚Ü?premium gets paid
       - Gift qualifies for annual exclusion (present interest)
     - **Life insurance tax benefits**:
       - Cash value growth = tax-deferred (IRC ¬ß7702)
       - Not taxable until policy surrendered
-      - ILIT holds to death ‚Üí never surrendered ‚Üí never income taxed
+      - ILIT holds to death ‚Ü?never surrendered ‚Ü?never income taxed
       - Death benefit = income tax-free (IRC ¬ß101(a))
-    - **Student demonstrated exceptional cross-domain thinking** ‚úì
+    - **Student demonstrated exceptional cross-domain thinking** ‚ú?
   - **IRC ¬ß677(b) - Support Obligation Rule** (2025-11-02) - MASTERED:
-    - **The Rule**: When trust income is used to discharge grantor's legal support obligation ‚Üí Grantor taxed on that portion
+    - **The Rule**: When trust income is used to discharge grantor's legal support obligation ‚Ü?Grantor taxed on that portion
     - **"Discharging Your Legal Obligation = Income to YOU"** (IRS Logic):
       - Grantor has legal obligation to support minor child
       - Trust income pays for child's support
@@ -1688,25 +1688,25 @@ This single document tracks ALL your CFP exam preparation progress, including:
       - 75% accumulated/retained in trust
       - **Tax result**: Maxwell taxed on 25% ($25,000), Trust taxed on 75% ($75,000)
     - **Who Has Legal Support Obligation?**:
-      - ‚úÖ Minor children (under 18)
-      - ‚úÖ Spouse (during marriage)
-      - ‚ùå Adult children (generally no obligation after 18)
-      - ‚ùå Grandchildren (no legal obligation)
-      - ‚ùå Nieces/nephews (no legal obligation)
+      - ‚ú?Minor children (under 18)
+      - ‚ú?Spouse (during marriage)
+      - ‚ù?Adult children (generally no obligation after 18)
+      - ‚ù?Grandchildren (no legal obligation)
+      - ‚ù?Nieces/nephews (no legal obligation)
     - **Why This Rule Exists** (Prevent Tax Avoidance):
       - Without rule: Rich parents create trusts, use income for support costs, avoid all taxes
       - IRS says: "If you have legal obligation and trust pays it, YOU benefited, YOU pay tax"
     - **Tax Allocation**:
-      - Portion used for support ‚Üí Grantor taxed (discharges obligation = grantor benefit)
-      - Portion NOT used for support ‚Üí Trust taxed (no grantor benefit)
+      - Portion used for support ‚Ü?Grantor taxed (discharges obligation = grantor benefit)
+      - Portion NOT used for support ‚Ü?Trust taxed (no grantor benefit)
       - Total: 100% of income taxed (someone pays on all of it)
     - **If Facts Changed**:
-      - If child is adult (25): No legal obligation ‚Üí Maxwell pays $0, Trust or beneficiary pays 100%
-      - If trust for grandson: No legal obligation ‚Üí Maxwell pays $0
-      - If trust for ex-spouse (alimony): Discharges alimony obligation ‚Üí Maxwell taxed
+      - If child is adult (25): No legal obligation ‚Ü?Maxwell pays $0, Trust or beneficiary pays 100%
+      - If trust for grandson: No legal obligation ‚Ü?Maxwell pays $0
+      - If trust for ex-spouse (alimony): Discharges alimony obligation ‚Ü?Maxwell taxed
     - **Different from IRC ¬ß678** (yesterday's Julie case):
-      - ¬ß678: Beneficiary with withdrawal POWER ‚Üí Beneficiary taxed ("Power = Ownership")
-      - ¬ß677(b): Trust income discharges grantor's obligation ‚Üí Grantor taxed ("Benefit = Income")
+      - ¬ß678: Beneficiary with withdrawal POWER ‚Ü?Beneficiary taxed ("Power = Ownership")
+      - ¬ß677(b): Trust income discharges grantor's obligation ‚Ü?Grantor taxed ("Benefit = Income")
       - Both about WHO benefits, different mechanisms
     - **Memory System**: "SUPPORT = GRANTOR TAX"
       - **S**upport obligation of grantor
@@ -1716,8 +1716,8 @@ This single document tracks ALL your CFP exam preparation progress, including:
       - **O**bligation discharged
       - **R**emaining income taxed to trust
       - **T**ax follows the benefit
-    - Student initially thought irrevocable trust = trust pays all tax (logical but incorrect) ‚úì
-    - Now understands indirect benefit to grantor creates tax liability ‚úì
+    - Student initially thought irrevocable trust = trust pays all tax (logical but incorrect) ‚ú?
+    - Now understands indirect benefit to grantor creates tax liability ‚ú?
   - **Memory Systems**:
     - "POWER PAYS" - Power to withdraw/revoke, Ownership for tax, Wait doesn't matter, Even if no distributions, Responsibility = yours
     - "ILIT = Insurance = No Income tax Issue"
@@ -1765,7 +1765,7 @@ This single document tracks ALL your CFP exam preparation progress, including:
 
 ### Not Yet Studied (5/14 topics)
 
-- [ ] **G.56** Estate documents ‚≠ê
+- [ ] **G.56** Estate documents ‚≠?
   - **In slides**: Wills, POAs, Advance directives
 
 - [ ] **G.61** Business transfers
@@ -1785,12 +1785,12 @@ This single document tracks ALL your CFP exam preparation progress, including:
 
 **Slides**: Minimal coverage (Investment slides pages 180-185)
 
-### ‚úÖ Mastered Topics (2/6)
+### ‚ú?Mastered Topics (2/6)
 
 - [x] **H.66 Behavioral finance** (2025-10-20) - **High confidence**
   - **Herd Mentality**: Following crowd even when you disagree
     - Most significant behavioral bias (34% of investment decisions)
-    - Example: Client disagrees with forum consensus but goes along anyway ‚úì
+    - Example: Client disagrees with forum consensus but goes along anyway ‚ú?
   - **Four Major Biases Comparison** - "FFFF" mnemonic:
     - **F**ollow (Herd) - copy others despite disagreement
     - **F**irst (Anchoring) - stuck on initial information
@@ -1804,7 +1804,7 @@ This single document tracks ALL your CFP exam preparation progress, including:
     - SOURCE = Underlying WHY conflicts happen (root cause)
     - SYMPTOM = Surface topics they argue about
   - **Power Imbalance from Income Disparity**:
-    - One partner earns significantly more ‚Üí creates control dynamics
+    - One partner earns significantly more ‚Ü?creates control dynamics
     - "I make money, I decide" leads to resentment
     - Affects ALL financial decisions (not just one topic)
     - PRIMARY source identified by CFP Board (56% men, 59% women report conflicts)
@@ -1837,11 +1837,11 @@ This single document tracks ALL your CFP exam preparation progress, including:
 
 **1. E.38 Business Taxation** - Section 179, MACRS Depreciation
 - **Status**: PARTIALLY RESOLVED (2025-10-28, 2025-11-01)
-  - ‚úÖ C Corporation distributions - MASTERED (2025-10-28)
-  - ‚úÖ Section 1221 vs 1231 property - MASTERED (2025-11-01)
-  - ‚ùå Section 179 expensing - Still needs work
-  - ‚ùå MACRS depreciation - Still needs work
-  - ‚ùå Mid-quarter convention - Still needs work
+  - ‚ú?C Corporation distributions - MASTERED (2025-10-28)
+  - ‚ú?Section 1221 vs 1231 property - MASTERED (2025-11-01)
+  - ‚ù?Section 179 expensing - Still needs work
+  - ‚ù?MACRS depreciation - Still needs work
+  - ‚ù?Mid-quarter convention - Still needs work
 - **Impact**: Critical for Tax Planning (14% of exam)
 - **In slides**: Tax slides pages 135-145
 - **Action**: Dedicate fresh session to Section 179/MACRS IMMEDIATELY
@@ -1854,12 +1854,12 @@ This single document tracks ALL your CFP exam preparation progress, including:
 
 **2. F.51 Early Withdrawal Exceptions & 72(t)**
 - **Status**: SUBSTANTIALLY RESOLVED (2025-11-01)
-  - ‚úÖ Rule of 55 - MASTERED (2025-10-23)
-  - ‚úÖ QDRO exceptions - MASTERED (2025-10-23)
-  - ‚úÖ IRA vs 401(k) exception differences - MASTERED (2025-10-23)
-  - ‚úÖ "HIDES" mnemonic - MASTERED (2025-10-23)
-  - ‚úÖ Hardship withdrawals & in-service rollover restrictions - MASTERED (2025-11-01)
-  - ‚ùå 72(t) SEPP calculations - Still needs work
+  - ‚ú?Rule of 55 - MASTERED (2025-10-23)
+  - ‚ú?QDRO exceptions - MASTERED (2025-10-23)
+  - ‚ú?IRA vs 401(k) exception differences - MASTERED (2025-10-23)
+  - ‚ú?"HIDES" mnemonic - MASTERED (2025-10-23)
+  - ‚ú?Hardship withdrawals & in-service rollover restrictions - MASTERED (2025-11-01)
+  - ‚ù?72(t) SEPP calculations - Still needs work
 - **In slides**: Retirement slides pages 85-95
 - **Action**: Only 72(t) SEPP calculations remaining (low exam priority)
 
@@ -1874,7 +1874,7 @@ This single document tracks ALL your CFP exam preparation progress, including:
 - **Issue**: Thinks ~5%, actually 5/9 for first 3 years, 5/12 beyond
 - **Action**: Memorize formula (5 minutes)
 
-### ‚úÖ RECENTLY RESOLVED
+### ‚ú?RECENTLY RESOLVED
 
 **5. F.45 Medicare Cost Calculations** (Resolved 2025-10-18)
 - **Previous status**: Medium severity - day ranges and cost-sharing confusion
@@ -1894,7 +1894,7 @@ This single document tracks ALL your CFP exam preparation progress, including:
 **8. E.38 C Corporation Distribution Mechanics** (Resolved 2025-10-28)
 - **Previous status**: Didn't understand E&P vs cash distinction or distribution ordering
 - **Resolution**: Waterfall rule mastered, excellent critical question asked by student
-- **Now**: HIGH confidence - perfect understanding of dividend ‚Üí basis ‚Üí capital gain ordering
+- **Now**: HIGH confidence - perfect understanding of dividend ‚Ü?basis ‚Ü?capital gain ordering
 
 **9. F.48 Nondiscrimination Coverage Testing Direction** (Resolved 2025-10-29)
 - **Previous status**: Confused about who must be 70% of whom
@@ -1967,7 +1967,7 @@ This single document tracks ALL your CFP exam preparation progress, including:
 - D.29 Market cycles (EMH)
 - D.33 IPS (RR TTLLU)
 
-### ‚ö™ FINAL REVIEW - Days 16-18 (Nov 3-5)
+### ‚ö?FINAL REVIEW - Days 16-18 (Nov 3-5)
 
 **Day 16**: A.1-A.6 Professional Conduct (quick review)
 - 6 Principles of Code of Ethics
@@ -1995,28 +1995,28 @@ This single document tracks ALL your CFP exam preparation progress, including:
 ### 2024 Dalton Review Slides (1,088 pages total)
 
 1. **Fundamentals** (90 pages)
-   - Professional Conduct A.1-A.6 ‚úì
-   - General Principles B.7-B.16 ‚úì
+   - Professional Conduct A.1-A.6 ‚ú?
+   - General Principles B.7-B.16 ‚ú?
 
 2. **Retirement** (182 pages - MOST COMPREHENSIVE)
-   - Retirement Planning F.44-F.53 ‚úì
-   - All plan types, rules, distributions ‚úì
+   - Retirement Planning F.44-F.53 ‚ú?
+   - All plan types, rules, distributions ‚ú?
 
 3. **Tax** (150 pages)
-   - Tax Planning E.36-E.43 ‚úì
-   - Comprehensive coverage ‚úì
+   - Tax Planning E.36-E.43 ‚ú?
+   - Comprehensive coverage ‚ú?
 
 4. **Investments** (188 pages)
-   - Investment Planning D.27-D.35 ‚úì
-   - Complete with formulas ‚úì
+   - Investment Planning D.27-D.35 ‚ú?
+   - Complete with formulas ‚ú?
 
 5. **Insurance** (188 pages)
-   - Risk Management C.17-C.26 ‚úì
-   - All insurance types ‚úì
+   - Risk Management C.17-C.26 ‚ú?
+   - All insurance types ‚ú?
 
 6. **Estate** (200 pages)
-   - Estate Planning G.54-G.64 ‚úì
-   - Gift/estate/GST tax comprehensive ‚úì
+   - Estate Planning G.54-G.64 ‚ú?
+   - Gift/estate/GST tax comprehensive ‚ú?
 
 ### Materials Needed
 
@@ -2091,18 +2091,18 @@ This single document tracks ALL your CFP exam preparation progress, including:
 
 ## Strengths to Leverage
 
-‚úÖ **Retirement Planning** - 100% covered, highest-weighted domain (18%) - COMPLETE!
-‚úÖ **Investment Planning** - 100% covered, second-highest domain (17%) - COMPLETE!
-‚úÖ **Tax Planning** - 100% covered, strong calculation skills (14%) - COMPLETE!
-‚úÖ **Insurance** - 100% covered (11%) - COMPLETE!
-‚úÖ **1031 Exchanges** - Perfect understanding, can teach others
-‚úÖ **Medicare** - Comprehensive knowledge after deep dive
-‚úÖ **Quick learner** - Masters calculations once formula understood
-‚úÖ **Strong retention** - Demonstrates across multiple sessions
-‚úÖ **Self-awareness** - Knows when tired, asks for breaks
-‚úÖ **EXCEPTIONAL critical thinking** - Identifies question flaws and imprecise terminology (Oct 29)
-‚úÖ **Professional judgment** - Recognizes CFP should test real-world communication (Oct 29)
-‚úÖ **Excellent analogies** - Creates powerful examples to illustrate points (Oct 29)
+‚ú?**Retirement Planning** - 100% covered, highest-weighted domain (18%) - COMPLETE!
+‚ú?**Investment Planning** - 100% covered, second-highest domain (17%) - COMPLETE!
+‚ú?**Tax Planning** - 100% covered, strong calculation skills (14%) - COMPLETE!
+‚ú?**Insurance** - 100% covered (11%) - COMPLETE!
+‚ú?**1031 Exchanges** - Perfect understanding, can teach others
+‚ú?**Medicare** - Comprehensive knowledge after deep dive
+‚ú?**Quick learner** - Masters calculations once formula understood
+‚ú?**Strong retention** - Demonstrates across multiple sessions
+‚ú?**Self-awareness** - Knows when tired, asks for breaks
+‚ú?**EXCEPTIONAL critical thinking** - Identifies question flaws and imprecise terminology (Oct 29)
+‚ú?**Professional judgment** - Recognizes CFP should test real-world communication (Oct 29)
+‚ú?**Excellent analogies** - Creates powerful examples to illustrate points (Oct 29)
 
 ---
 
@@ -2115,11 +2115,63 @@ This single document tracks ALL your CFP exam preparation progress, including:
 
 **Key Rules**:
 - ‚ö†Ô∏è Don't study business taxation when tired!
-- ‚úì Take breaks every 90 minutes
-- ‚úì Practice problems after learning each concept
-- ‚úì Review previous day's material each morning
-- ‚úì Use slides' exam tips and practice questions
+- ‚ú?Take breaks every 90 minutes
+- ‚ú?Practice problems after learning each concept
+- ‚ú?Review previous day's material each morning
+- ‚ú?Use slides' exam tips and practice questions
 
 ---
 
 **Next Update**: After each study session, update mastered topics and adjust plan
+---
+
+#  Œ˜∞‡—¿”Ô—ßœ∞◊∑◊Ÿ (–¬‘ˆ - 2026-01-09)
+
+## —ßœ∞∏≈¿¿
+- **ø™ º»’∆⁄**: 2026ƒÍ1‘¬9»’
+- **—ßœ∞ƒø±Í**: ¬√”ŒΩª¡˜ - »’≥£…˙ªÓ”√”Ô
+- **—ßœ∞’ﬂº∂±**: ≥ı—ß’ﬂ£®”–ª˘¥°£©
+- **ΩÃ—ß∑Ω∑®**: À’∏Ò¿≠µ◊ ΩΩÃ—ß∑®
+
+##  “——ßœ∞µƒ¥ ª„”Î±Ì¥Ô
+
+###  ÕÍ»´’∆Œ’£®∏ﬂ–≈–ƒ£©
+| ¿‡± | ¥ ª„ | ∫¨“Â | ”√∑® æ¿˝ |
+|------|------|------|---------|
+| ∂Ø¥  | Quiero | Œ“œÎ“™/Œ““™ | Quiero agua / Quiero caf®¶ |
+| “˚¡œ | Agua | ÀÆ | Quiero agua  |
+| “˚¡œ | Caf®¶ | øß∑» | Quiero caf®¶  |
+| “˚¡œ | Vino | ∆œÃ—æ∆ | Quiero vino |
+| ¥˙¥  | Yo | Œ“ | Yo quiero agua |
+
+###  ≤ø∑÷’∆Œ’£®÷–µ»–≈–ƒ£©
+| ¿‡± | ¥ ª„ | ∫¨“Â | —ßœ∞Ω¯∂» |
+|------|------|------|---------|
+| —’…´ | Blanco | ∞◊…´ | “——ß£¨–ËπÆπÃ |
+| —’…´ | Rojo | ∫Ï…´ | ≥ı¥ŒΩ”¥•£¨∆¥–¥ªÏœ˝ |
+| ±Ì¥Ô | Lo siento | Œ“∫‹“≈∫∂ | —ßπ˝£¨¿ÌΩ‚’˝»∑ |
+| ∂Ã”Ô | No conozco | Œ“≤ª÷™µ¿ | “——ß |
+
+###  ¥˝—ßœ∞
+| ¿‡± | ¥ ª„ | ∫¨“Â |
+|------|------|------|
+| “˚¡œ | Cerveza | ∆°æ∆ |
+| “˚¡œ | T®¶ | ≤Ë |
+| “˚¡œ | Jugo/Zumo | π˚÷≠ |
+
+##  —ßœ∞Ω¯∂»: 92% ’∆Œ’ 
+
+**ÕÍ»´’∆Œ’**: 14∏ˆ | **≤ø∑÷’∆Œ’**: 2∏ˆ | **¥˝—ßœ∞**: 0∏ˆ (ª˘¥°¥ ª„“—∫≠∏«)
+
+**—ßœ∞«±¡¶**:  (4/5) - ª˝º´°¢∏“≥¢ ‘°¢Ω” ‹æ¿’˝
+
+##  œ¬¥Œª·ª∞º∆ªÆ
+1. ∏¥œ∞: blanco°¢rojo —’…´¥ 
+2. –¬—ß: cerveza°¢t®¶ “˚¡œ¥ 
+3. ¡∑œ∞: ≤ÕÃ¸∂‘ª∞≥°æ∞
+
+---
+
+**◊Ó∫Û∏¸–¬**: 2026-01-09
+
+
