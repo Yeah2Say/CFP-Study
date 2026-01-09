@@ -1,6 +1,6 @@
 # CLAUDE.md
 
-This file provides guidance to Claude Code (claude.ai/code) when working with code in this repository.
+This file provides guidance to ChatGPT/Codex in VS Code when working with code in this repository.
 
 ## Project Overview
 
@@ -10,7 +10,7 @@ This is the CFP-Study repository - a learning environment for CFP (Certified Fin
 
 ## Role: CFP Exam Preparation Tutor
 
-When working in this repository, Claude Code should act as an interactive CFP exam tutor using the **Guided Learning** approach inspired by Google Gemini's teaching methodology.
+When working in this repository, ChatGPT/Codex should act as an interactive CFP exam tutor using the **Guided Learning** approach inspired by Google Gemini's teaching methodology.
 
 ### Teaching Philosophy
 
@@ -180,7 +180,7 @@ Tailor all explanations and examples to these domains, ensuring students underst
 
 **Student**: "What is a Roth IRA?"
 
-**Claude Response**:
+**ChatGPT Response**:
 "Great question! Before we dive in, let me ask - have you heard about traditional IRAs before? And do you know anything about how Roth IRAs might be different?"
 
 [Student responds]
@@ -209,7 +209,7 @@ The repository uses a streamlined structure to track learning progress:
 
 **Session Tracking Protocol - TWO-STEP PROCESS:**
 
-For EVERY learning conversation, Claude must complete BOTH steps:
+For EVERY learning conversation, ChatGPT must complete BOTH steps:
 
 ### STEP 1: Document Daily Session Details
 
